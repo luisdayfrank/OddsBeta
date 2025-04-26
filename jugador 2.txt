@@ -1,0 +1,540 @@
+26 Arp 2025 00:00 Tournament A12. league 600-700								
+		Janata T		698				+12.7
+		Opponent		Rat.	Result			Delta
+1:30	gr	Volf M	 	681		3 : 0	11-7 11-5 11-6	+6.7
+0:00	gr	Holovatiuk Yu	 	673		3 : 0	11-7 11-7 11-9	6
+24 Arp 2025 00:00 Tournament A17. league 600-700								
+		Janata T		691	3 place			8
+		Opponent		Rat.	Result			Delta
+5:02	3rd	Kostal M	 	697		3 : 2	8-11 11-3 9-11 11-6 11-7	+4.3
+3:30	gr	Plachy Ji	 	703		2 : 3	7-11 11-7 4-11 12-10 7-11	-3.5
+2:30	gr	Prokupek Ja	 	670		3 : 1	8-11 11-8 12-10 11-6	+4.8
+1:30	gr	Kostal M	 	697		3 : 0	13-11 12-10 11-6	+8.5
+0:30	gr	Holovatiuk Yu	 	683		1 : 3	12-10 10-12 13-15 9-11	-6.5
+20 Arp 2025 00:00 Tournament A12. league 600-700								
+		Janata T		688	3 place			+2.5
+		Opponent		Rat.	Result			Delta
+5:00	3rd	Prokupek Ja	 	698		3 : 1	8-11 11-9 11-9 11-5	+6.6
+4:30	gr	Prokupek Ja	 	698		3 : 2	9-11 14-12 11-7 3-11 11-8	+4.4
+3:00	gr	Holovatiuk Yu	 	676		1 : 3	4-11 11-7 8-11 10-12	-6.8
+1:30	gr	Postelt V	 	671		3 : 0	11-3 11-4 11-8	+6.6
+0:03	gr	Briska Ja	 	644		1 : 3	11-9 10-12 10-12 8-11	-8.7
+16 Arp 2025 16:00 Tournament A17. league 600-700								
+		Janata T		663	1 place			26
+		Opponent		Rat.	Result			Delta
+19:30	Final	Postelt V	 	690		3 : 2	11-8 10-12 14-12 10-12 11-6	+5.1
+18:30	gr	Briska Ja	 	650		3 : 1	11-6 11-3 9-11 11-9	+5.2
+17:00	gr	Lazar Ju	 	684		3 : 1	11-8 6-11 11-7 11-7	+7.3
+16:00	gr	Postelt V	 	690		3 : 1	13-11 11-13 12-10 11-4	+7.6
+14 Arp 2025 00:00 Tournament A12. league 600-700								
+		Janata T		685	2 place			+5.9
+		Opponent		Rat.	Result			Delta
+5:30	Final	Cermak V	 	696		1 : 3	4-11 14-12 6-11 9-11	-5.3
+4:30	gr	Cermak V	 	696		3 : 2	11-7 11-5 9-11 9-11 11-8	+4.4
+3:30	gr	Tuma D	 	691		3 : 2	11-5 14-16 11-7 11-13 11-9	+4.2
+2:00	gr	Kostal M	 	688		2 : 3	7-11 11-9 9-11 11-4 8-11	-3.9
+1:00	gr	Prokupek Ja	 	684		3 : 1	11-9 7-11 11-9 11-5	+5.9
+14 Arp 2025 16:00 Tournament A12. league 600-700								
+		Janata T		685	4 place			-27.3
+		Opponent		Rat.	Result			Delta
+19:00	3rd	Pavelka R	 	675		0 : 3	6-11 6-11 7-11	-8.8
+18:00	gr	Pavelka R	 	675		2 : 3	11-6 10-12 8-11 11-7 4-11	-4.4
+17:00	gr	Svedik M	 	688		0 : 3	5-11 8-11 4-11	-7.8
+16:30	gr	Lazar Ju	 	680		1 : 3	11-8 5-11 3-11 11-13	-6.3
+12 Arp 2025 12:00 Tournament A12. league 600-700								
+		Janata T		703	4 place			-17.6
+		Opponent		Rat.	Result			Delta
+15:03	3rd	Prokupek Ja	 	667		2 : 3	11-9 12-10 14-16 6-11 9-11	-5.4
+14:00	gr	Tuma D	 	683		1 : 3	11-9 1-11 8-11 6-11	-7.2
+13:00	gr	Kostal M	 	681		3 : 2	11-4 10-12 11-8 6-11 11-9	+3.1
+12:30	gr	Prokupek Ja	 	667		1 : 3	12-14 11-4 11-13 5-11	-8.1
+8 Arp 2025 00:00 Tournament A12. league 600-700								
+		Janata T		708	3 place			-5.1
+		Opponent		Rat.	Result			Delta
+5:00	3rd	Briska Ja	 	674		3 : 1	13-11 11-9 9-11 12-10	4
+4:30	gr	Holovatiuk Yu	 	652		3 : 0	11-8 11-5 11-7	+3.5
+3:31	gr	Kir M	 	701		1 : 3	6-11 11-9 7-11 9-11	-6.5
+2:00	gr	Briska Ja	 	674		3 : 1	8-11 11-8 11-8 11-7	4
+1:00	gr	Barta To	 	634		1 : 3	10-12 11-8 9-11 12-14	-10.5
+5 Arp 2025 00:00 Tournament A17. league 700-800								
+		Janata T		706	2 place			+4.6
+		Opponent		Rat.	Result			Delta
+5:30	Final	Schopf Karel	 	699		1 : 3	11-4 3-11 6-11 7-11	-6.4
+4:30	gr	Plachy Ji	 	735		3 : 0	13-11 12-10 11-9	+10.3
+3:00	gr	Kir M	 	683		3 : 1	14-12 11-6 3-11 12-10	+4.6
+1:30	gr	Schopf Karel	 	699		0 : 3	9-11 10-12 7-11	-8.6
+0:00	gr	Barta To	 	673		3 : 1	11-8 8-11 11-8 11-5	+4.1
+5 Arp 2025 20:00 Tournament A17. league 700-800								
+		Janata T		706	2 place			-0.7
+		Opponent		Rat.	Result			Delta
+23:30	Final	Schopf Karel	 	699		0 : 3	7-11 6-11 9-11	-8.6
+22:00	gr	Volf M	 	720		3 : 0	11-8 11-3 11-4	+9.1
+21:00	gr	Schopf Karel	 	699		0 : 3	8-11 6-11 7-11	-8.6
+20:30	gr	Sopko M	 	718		3 : 1	6-11 11-9 13-11 11-6	+6.8
+1 Arp 2025 00:00 Tournament A17. league 700-800								
+		Janata T		697	3 place			+9.3
+		Opponent		Rat.	Result			Delta
+5:00	3rd	Cermak V	 	717		3 : 2	11-4 11-7 4-11 6-11 11-8	+4.8
+4:00	gr	Hanus Ji	 	706		1 : 3	12-10 6-11 7-11 9-11	-5.5
+2:30	gr	Cermak V	 	717		3 : 2	11-9 4-11 8-11 11-7 11-8	+4.8
+1:00	gr	Sychra M	 	729		2 : 3	11-8 9-11 11-3 10-12 4-11	-2.7
+0:00	gr	Kir M	 	722		3 : 1	11-9 11-7 4-11 11-1	+7.5
+30 Mar 2025 00:00 Tournament A17. league 700-800								
+		Janata T		712	4 place			-15
+		Opponent		Rat.	Result			Delta
+6:00	3rd	Vizek M	 	710		2 : 3	9-11 11-7 11-6 9-11 9-11	-4.1
+5:30	gr	Vizek M	 	710		1 : 3	4-11 11-4 10-12 10-12	-6.1
+3:00	gr	Kir M	 	723		1 : 3	5-11 8-11 11-8 3-11	-5.3
+1:30	gr	Postelt V	 	710		2 : 3	4-11 11-6 6-11 11-3 9-11	-4.1
+0:00	gr	Kostal M	 	688		3 : 1	11-7 11-3 5-11 11-3	+4.6
+28 Mar 2025 16:00 Tournament A14. league 700-800								
+		Janata T		709	2 place			+3.5
+		Opponent		Rat.	Result			Delta
+19:31	Final	Sychra M	 	747		2 : 3	11-3 4-11 13-15 12-10 7-11	-2.5
+18:30	gr	Vizek M	 	720		3 : 2	11-3 11-4 8-11 9-11 11-7	+4.4
+17:30	gr	Sychra M	 	747		0 : 3	7-11 8-11 8-11	-5
+16:30	gr	Postelt V	 	709		3 : 1	11-4 3-11 11-6 11-8	6
+25 Mar 2025 00:00 Tournament A17. league 600-700								
+		Janata T		675	1 place			+34.9
+		Opponent		Rat.	Result			Delta
+5:30	Final	Cermak V	 	663		3 : 1	11-13 11-3 11-4 11-9	+5.3
+4:30	gr	Tuma D	 	713		3 : 0	11-6 12-10 11-7	11
+3:30	gr	Plachy Ji	 	679		3 : 0	11-6 11-9 11-4	+8.3
+2:00	gr	Prokupek Ja	 	679		3 : 2	5-11 11-7 11-6 7-11 11-6	+4.2
+1:00	gr	Cermak V	 	663		3 : 1	7-11 11-3 11-4 11-6	+5.3
+23 Mar 2025 12:00 Tournament A12. league 600-700								
+		Janata T		693	4 place			-18.1
+		Opponent		Rat.	Result			Delta
+15:01	3rd	Nohejl M	 	686		0 : 3	4-11 3-11 10-12	-8.5
+14:01	gr	Svedik M	 	670		0 : 3	4-11 11-13 9-11	-9.8
+13:00	gr	Nohejl M	 	686		3 : 1	12-10 5-11 11-6 11-9	+5.6
+12:30	gr	Briska Ja	 	659		2 : 3	11-9 11-6 6-11 6-11 4-11	-5.4
+21 Mar 2025 00:00 Tournament A17. league 600-700								
+		Janata T		677	2 place			+3.9
+		Opponent		Rat.	Result			Delta
+5:30	Final	Tuma D	 	707		2 : 3	5-11 11-8 18-16 9-11 9-11	-2.8
+4:30	gr	Prokupek Ja	 	695		2 : 3	7-11 11-9 9-11 11-7 8-11	-3.3
+3:01	gr	Plachy Ji	 	690		3 : 2	11-5 8-11 11-9 9-11 12-10	+4.5
+1:30	gr	Tuma D	 	707		2 : 3	8-11 9-11 11-9 11-7 9-11	-2.8
+0:00	gr	Cermak V	 	674		3 : 0	11-4 11-5 11-4	+7.7
+21 Mar 2025 20:00 Tournament A17. league 600-700								
+		Janata T		677	1 place			13
+		Opponent		Rat.	Result			Delta
+23:30	Final	Prokupek Ja	 	695		3 : 1	9-11 11-6 12-10 12-10	+7.1
+22:30	gr	Krticka L	 	646		3 : 2	11-9 11-9 7-11 6-11 11-8	+2.7
+21:00	gr	Plachy Ji	 	690		3 : 0	12-10 11-9 12-10	9
+20:08	gr	Prokupek Ja	 	695		0 : 3	8-11 7-11 6-11	-6.6
+19 Mar 2025 00:00 Tournament A17. league 600-700								
+		Janata T		689	3 place			+4.7
+		Opponent		Rat.	Result			Delta
+5:00	3rd	Plachy Ji	 	689		3 : 2	11-8 6-11 11-4 9-11 11-8	4
+4:30	gr	Prokupek Ja	 	703		2 : 3	11-8 7-11 11-3 12-14 9-11	-3.4
+3:30	gr	Plachy Ji	 	689		2 : 3	11-7 11-8 3-11 5-11 9-11	-4
+2:00	gr	Postelt V	 	661		3 : 1	11-8 11-8 10-12 11-4	+4.3
+1:00	gr	Novak K	 	646		3 : 1	7-11 11-7 11-5 11-6	+3.4
+19 Mar 2025 20:00 Tournament A12. league 600-700								
+		Janata T		689	4 place			-15.5
+		Opponent		Rat.	Result			Delta
+23:00	3rd	Tuma D	 	686		0 : 3	9-11 7-11 9-11	-8.2
+22:00	gr	Plachy Ji	 	689		3 : 1	11-8 10-12 11-4 11-4	6
+21:30	gr	Cermak V	 	670		1 : 3	11-8 9-11 9-11 5-11	-7.1
+20:00	gr	Tuma D	 	686		1 : 3	9-11 6-11 11-8 10-12	-6.2
+17 Mar 2025 00:00 Tournament A12. league 600-700								
+		Janata T		673	3 place			+16.4
+		Opponent		Rat.	Result			Delta
+5:00	3rd	Cermak V	 	693		3 : 0	11-5 11-7 11-9	+9.6
+4:01	gr	Prokupek Ja	 	693		2 : 3	11-8 11-6 9-11 12-14 11-13	-3.2
+3:00	gr	Cermak V	 	693		3 : 1	11-7 11-8 6-11 11-9	+7.2
+2:00	gr	Fojt P	 	718		2 : 3	11-6 11-6 9-11 11-13 7-11	-2.2
+0:30	gr	Briza F	 	630		3 : 0	12-10 11-7 11-6	+4.6
+15 Mar 2025 12:00 Tournament A12. league 700-800								
+		Janata T		679	4 place			-14.1
+		Opponent		Rat.	Result			Delta
+15:00	3rd	Cermak V	 	687		1 : 3	11-8 3-11 9-11 9-11	-5.5
+14:00	gr	Sychra M	 	765		1 : 3	7-11 10-12 12-10 6-11	-0.9
+13:00	gr	Prokupek Ja	 	678		2 : 3	11-7 5-11 2-11 11-7 7-11	-4
+12:30	gr	Cermak V	 	687		2 : 3	7-11 7-11 11-6 11-6 10-12	-3.7
+15 Mar 2025 20:00 Tournament A17. league 700-800								
+		Janata T		679	2 place			+8.3
+		Opponent		Rat.	Result			Delta
+23:31	Final	Pycha P	 	747		1 : 3	11-7 4-11 9-11 8-11	-1.9
+22:00	gr	Pycha P	 	747		0 : 3	5-11 7-11 6-11	-2.6
+21:00	gr	Vojtech J	 	724		3 : 2	11-4 11-8 10-12 9-11 11-9	+5.8
+20:30	gr	Plachy Ji	 	686		3 : 1	11-9 8-11 11-7 11-8	+6.4
+12 Mar 2025 00:00 Tournament A14. league 600-700								
+		Janata T		687	2 place			-7.6
+		Opponent		Rat.	Result			Delta
+5:30	Final	Krejci R	 	720		0 : 3	3-11 6-11 6-11	-5.4
+4:33	gr	Krejci R	 	720		1 : 3	7-11 6-11 11-5 9-11	-4.1
+3:00	gr	Volf M	 	699		3 : 2	10-12 15-17 11-5 11-4 11-7	+4.5
+1:30	gr	Kir M	 	668		1 : 3	5-11 12-14 11-6 10-12	-7.1
+0:00	gr	Pavelka R	 	652		3 : 1	11-8 8-11 11-9 11-9	+3.9
+10 Mar 2025 00:00 Tournament A12. league 600-700								
+		Janata T		677	2 place			+10.9
+		Opponent		Rat.	Result			Delta
+5:35	Final	Krejci R	 	702		0 : 3	7-11 11-13 7-11	-6
+4:00	gr	Volf M	 	696		3 : 1	11-6 9-11 11-9 11-6	+7.1
+2:30	gr	Cermak V	 	695		3 : 2	8-11 11-4 3-11 12-10 12-10	+4.7
+1:00	gr	Fojt P	 	708		3 : 0	11-9 11-5 12-10	+10.5
+0:00	gr	Krejci R	 	702		0 : 3	8-11 8-11 9-11	-6
+7 Mar 2025 12:00 Tournament A12. league 600-700								
+		Janata T		698	4 place			-20.7
+		Opponent		Rat.	Result			Delta
+15:00	3rd	Kostal M	 	687		0 : 3	7-11 6-11 7-11	-8.9
+14:00	gr	Kostal M	 	687		3 : 0	14-12 12-10 11-6	+7.1
+13:00	gr	Svedik M	 	694		0 : 3	5-11 7-11 9-11	-8.2
+12:30	gr	Prokupek Ja	 	664		0 : 3	12-14 7-11 6-11	-10.7
+6 Mar 2025 08:00 Tournament A14. league 600-700								
+		Janata T		677	1 place			+21.7
+		Opponent		Rat.	Result			Delta
+11:33	Final	Tuma D	 	688		3 : 2	11-9 8-11 11-7 10-12 13-11	+4.4
+10:00	gr	Tuma D	 	688		3 : 1	11-6 11-8 16-18 11-5	+6.7
+9:31	gr	Belovsky Jo	 	676		3 : 1	11-5 7-11 11-4 12-10	+5.9
+8:00	gr	Varnuska T	 	673		3 : 2	6-11 13-11 9-11 12-10 11-7	+3.9
+5 Mar 2025 08:00 Tournament A17. league 600-700								
+		Janata T		680	2 place			-2.8
+		Opponent		Rat.	Result			Delta
+11:30	Final	Belovsky Jo	 	660		1 : 3	8-11 9-11 11-8 8-11	-7.2
+10:00	gr	Tuma D	 	663		3 : 1	7-11 11-8 11-9 11-7	5
+9:30	gr	Belovsky Jo	 	660		3 : 1	3-11 11-4 11-7 11-6	+4.8
+8:00	gr	Prokupek Ja	 	680		1 : 3	7-11 9-11 11-8 7-11	-6
+4 Mar 2025 00:00 Tournament A12. league 600-700								
+		Janata T		680	2 place			0.2
+		Opponent		Rat.	Result			Delta
+5:30	Final	Prokupek Ja	 	659		2 : 3	11-8 11-9 9-11 10-12 6-11	-4.8
+4:00	gr	Tuma D	 	657		3 : 2	7-11 15-17 11-9 11-6 12-10	+3.1
+3:00	gr	Cermak V	 	714		2 : 3	11-8 6-11 11-5 5-11 9-11	-2.7
+2:00	gr	Plachy Ji	 	690		3 : 0	11-7 12-10 13-11	+8.8
+0:30	gr	Prokupek Ja	 	659		2 : 3	8-11 8-11 11-7 12-10 5-11	-4.8
+3 Mar 2025 08:00 Tournament A12. league 600-700								
+		Janata T		700	4 place			-19.7
+		Opponent		Rat.	Result			Delta
+11:01	3rd	Cermak V	 	723		0 : 3	6-11 7-11 8-11	-6.1
+10:00	gr	Cermak V	 	723		1 : 3	6-11 11-4 6-11 5-11	-4.6
+9:00	gr	Prokupek Ja	 	652		3 : 2	11-8 9-11 11-7 6-11 11-8	+2.1
+8:30	gr	Kostal M	 	661		0 : 3	7-11 7-11 9-11	-11.1
+2 Mar 2025 12:00 Tournament A17. league 700-800								
+		Janata T		670	2 place			+27.3
+		Opponent		Rat.	Result			Delta
+15:30	Final	Sychra M	 	753		0 : 3	3-11 7-11 4-11	-1.3
+14:30	gr	Cermak V	 	710		3 : 1	11-9 11-4 7-11 11-6	+8.4
+13:00	gr	Vizek M	 	723		3 : 0	11-4 11-9 11-9	+12.3
+12:04	gr	Sychra M	 	753		3 : 2	7-11 15-13 11-6 7-11 11-6	+7.3
+2 Mar 2025 20:00 Tournament A17. league 600-700								
+		Janata T		670	3 place			+4.2
+		Opponent		Rat.	Result			Delta
+23:01	3rd	Plachy Ji	 	691		3 : 2	11-8 8-11 9-11 15-13 11-9	+4.8
+22:30	gr	Plachy Ji	 	691		1 : 3	5-11 15-13 9-11 11-13	-4.7
+21:00	gr	Postelt V	 	716		2 : 3	10-12 11-7 9-11 11-3 8-11	-2.2
+20:01	gr	Fojt P	 	717		3 : 2	11-8 9-11 11-7 16-18 11-3	+5.9
+1 Mar 2025 20:00 Tournament A12. league 600-700								
+		Janata T		680	4 place			-10.1
+		Opponent		Rat.	Result			Delta
+23:00	3rd	Briska Ja	 	679		1 : 3	11-8 7-11 7-11 3-11	-6
+22:00	gr	Sychra M	 	742		1 : 3	4-11 9-11 13-11 9-11	-2.2
+21:00	gr	Plachy Ji	 	686		2 : 3	11-3 13-11 7-11 7-11 7-11	-3.8
+20:30	gr	Briska Ja	 	679		3 : 0	11-5 11-7 11-7	+7.9
+28 Feb 2025 16:00 Tournament A14. league 700-800								
+		Janata T		692	4 place			-12.6
+		Opponent		Rat.	Result			Delta
+19:00	3rd	Vizek M	 	725		1 : 3	11-6 7-11 7-11 7-11	-4
+18:31	gr	Vizek M	 	725		2 : 3	12-10 11-5 12-14 4-11 9-11	-2.7
+17:30	gr	Pozarsky J	 	752		1 : 3	7-11 11-8 6-11 2-11	-2.4
+16:30	gr	Sychra M	 	734		1 : 3	11-8 7-11 6-11 6-11	-3.5
+26 Feb 2025 20:00 Tournament A17. league 700-800								
+		Janata T		697	3 place			-3.9
+		Opponent		Rat.	Result			Delta
+23:00	3rd	Cermak V	 	702		3 : 2	8-11 4-11 11-7 11-6 11-4	+4.2
+22:30	gr	Cermak V	 	702		1 : 3	8-11 11-13 11-9 4-11	-5.7
+21:00	gr	Pycha P	 	767		2 : 3	4-11 11-4 11-5 7-11 6-11	-1.2
+20:30	gr	Tazler Ja	 	770		1 : 3	11-13 11-9 7-11 12-14	-1.6
+25 Feb 2025 00:00 Tournament A12. league 600-700								
+		Janata T		715	1 place			9
+		Opponent		Rat.	Result			Delta
+5:30	Final	Briska Ja	 	667		3 : 0	11-6 13-11 11-6	+4.2
+4:34	gr	Fojt P	 	683		3 : 0	11-8 11-8 11-6	+5.5
+3:30	gr	Kir M	 	677		3 : 0	11-7 11-7 13-11	5
+2:01	gr	Plachy Ji	 	674		3 : 2	11-5 13-11 3-11 7-11 11-8	+2.4
+1:00	gr	Briska Ja	 	667		1 : 3	10-12 11-8 7-11 8-11	-8.9
+25 Feb 2025 20:00 Tournament A14. league 600-700								
+		Janata T		715	4 place			-26.3
+		Opponent		Rat.	Result			Delta
+23:00	3rd	Plachy Ji	 	674		1 : 3	14-16 3-11 11-9 9-11	-8.5
+22:30	gr	Plachy Ji	 	674		1 : 3	6-11 11-5 6-11 5-11	-8.5
+21:00	gr	Fojt P	 	683		2 : 3	8-11 11-6 11-5 7-11 9-11	-5.3
+20:00	gr	Volf M	 	716		2 : 3	11-6 6-11 6-11 11-8 6-11	-4
+24 Feb 2025 16:00 Tournament A14. league 600-700								
+		Janata T		708	1 place			+7.3
+		Opponent		Rat.	Result			Delta
+19:30	Final	Kir M	 	678		3 : 2	11-7 10-12 11-9 6-11 12-10	+2.8
+18:00	gr	Placek M	 	604		3 : 2	8-11 11-8 9-11 11-8 11-1	0
+17:30	gr	Fisera M	 	619		3 : 0	16-14 13-11 11-8	+0.9
+16:00	gr	Kir M	 	678		3 : 2	10-12 12-10 7-11 11-9 11-9	+2.8
+21 Feb 2025 16:00 Tournament A12. league 600-700								
+		Janata T		694	1 place			+15.3
+		Opponent		Rat.	Result			Delta
+19:30	Final	Belovsky Jo	 	669		3 : 0	12-10 11-4 11-4	6
+18:00	gr	Briska Ja	 	670		3 : 2	7-11 8-11 11-8 11-9 12-10	3
+17:00	gr	Belovsky Jo	 	669		3 : 2	5-11 11-6 7-11 11-7 11-4	3
+16:30	gr	Plachy Ji	 	657		3 : 2	11-9 10-12 11-9 5-11 11-7	+2.5
+18 Feb 2025 16:00 Tournament A12. league 700-800								
+		Janata T		696	4 place			-2.5
+		Opponent		Rat.	Result			Delta
+19:00	3rd	Kolisnyk O	 	810		1 : 3	11-9 9-11 7-11 3-11	0
+18:30	gr	Vondrak M	 	775		0 : 3	8-11 6-11 9-11	-1.7
+17:30	gr	Kolisnyk O	 	810		0 : 3	7-11 6-11 10-12	0
+16:30	gr	Just F	 	783		1 : 3	11-7 9-11 6-11 11-13	-0.8
+17 Feb 2025 00:00 Tournament A14. league 700-800								
+		Janata T		701				-4.3
+		Opponent		Rat.	Result			Delta
+3:30	gr	Sychra M	 	752		0 : 3	8-11 10-12 7-11	-3.9
+2:30	gr	Kostal M	 	701		3 : 1	11-3 11-9 4-11 11-8	6
+1:30	gr	Prokupek Ja	 	746		2 : 3	11-7 9-11 11-13 11-8 5-11	-2.2
+0:30	gr	Cermak V	 	731		1 : 3	11-8 10-12 8-11 9-11	-4.2
+16 Feb 2025 12:00 Tournament A17. league 700-800								
+		Janata T		736	4 place			-35.1
+		Opponent		Rat.	Result			Delta
+15:00	3rd	Svedik M	 	696		0 : 3	9-11 4-11 11-13	-11.2
+14:00	gr	Prokupek Ja	 	748		0 : 3	5-11 10-12 5-11	-7
+13:00	gr	Just F	 	764		0 : 3	6-11 10-12 8-11	-5.7
+12:30	gr	Svedik M	 	696		0 : 3	5-11 8-11 4-11	-11.2
+15 Feb 2025 16:00 Tournament A17. league 700-800								
+		Janata T		734	2 place			+1.8
+		Opponent		Rat.	Result			Delta
+19:30	Final	Kolisnyk O	 	764		2 : 3	7-11 11-6 7-11 11-4 4-11	-2.8
+18:00	gr	Kolisnyk O	 	764		2 : 3	6-11 11-7 12-10 7-11 6-11	-2.8
+17:00	gr	Pycha P	 	736		3 : 2	8-11 11-8 11-9 11-13 12-10	+4.1
+16:30	gr	Kir M	 	701		3 : 2	7-11 11-2 11-7 11-13 11-7	+2.7
+13 Feb 2025 00:00 Tournament A17. league 700-800								
+		Janata T		751	2 place			-16.1
+		Opponent		Rat.	Result			Delta
+5:30	Final	Kouble D	 	722		0 : 3	7-11 7-11 11-13	-10.4
+4:30	gr	Svorc Ja	 	754		2 : 3	11-2 12-14 13-15 11-7 9-11	-3.9
+3:00	gr	Cermak V	 	710		3 : 0	11-8 11-8 11-6	+4.7
+1:30	gr	Kouble D	 	722		0 : 3	4-11 10-12 5-11	-10.4
+0:00	gr	Kostal M	 	706		3 : 1	11-7 7-11 11-3 11-9	+3.3
+9 Feb 2025 00:00 Tournament A12. league 700-800								
+		Janata T		753	2 place			-1.2
+		Opponent		Rat.	Result			Delta
+5:30	Final	Tazler Ja	 	730		0 : 3	7-11 4-11 8-11	-9.8
+3:30	gr	Sychra M	 	753		3 : 0	12-10 11-8 11-9	8
+2:30	gr	Tazler Ja	 	730		0 : 3	4-11 5-11 9-11	-9.8
+1:45	gr	Pycha P	 	756		3 : 2	3-11 11-7 7-11 13-11 11-6	+4.1
+0:30	gr	Kouble D	 	748		3 : 1	11-5 6-11 11-7 11-8	+5.7
+4 Feb 2025 00:00 Tournament A17. league 700-800								
+		Janata T		771	4 place			-18.5
+		Opponent		Rat.	Result			Delta
+5:01	3rd	Pycha P	 	743		1 : 3	5-11 11-7 5-11 4-11	-7.7
+4:30	gr	Sychra M	 	759		3 : 2	4-11 11-4 7-11 11-2 11-5	+3.5
+3:00	gr	Tazler Ja	 	697		1 : 3	3-11 11-6 3-11 6-11	-10.5
+1:30	gr	Pycha P	 	743		3 : 1	11-8 13-11 5-11 13-11	+4.3
+0:01	gr	Prokupek Ja	 	670		2 : 3	7-11 6-11 11-8 11-6 9-11	-8.1
+2 Feb 2025 08:00 Tournament A12. league 700-800								
+		Janata T		738	1 place			+17.7
+		Opponent		Rat.	Result			Delta
+11:34	Final	Kostal M	 	707		3 : 1	11-6 11-7 5-11 12-10	+4.1
+10:00	gr	Pavelka R	 	723		3 : 0	11-7 11-6 11-8	+6.7
+9:00	gr	Prokupek Ja	 	671		3 : 1	11-6 11-13 11-9 11-4	2
+8:30	gr	Kostal M	 	707		3 : 1	12-10 11-8 8-11 11-8	+4.1
+2 Feb 2025 20:00 Tournament A12. league 700-800								
+		Janata T		738	2 place			+16.8
+		Opponent		Rat.	Result			Delta
+23:30	Final	Sobisek M	 	819		1 : 3	12-14 8-11 11-9 6-11	-1.2
+22:30	gr	Sopko M	 	753		3 : 0	11-5 11-9 12-10	+9.2
+21:30	gr	Sychra M	 	761		3 : 0	11-8 11-4 11-5	+9.8
+20:32	gr	Sobisek M	 	819		0 : 3	12-14 10-12 5-11	-1.6
+31 Jan 2025 12:00 Tournament A14. league 700-800								
+		Janata T		727	2 place			+12.2
+		Opponent		Rat.	Result			Delta
+15:30	Final	Sobisek M	 	799		2 : 3	10-12 11-9 11-9 5-11 8-11	-1.1
+14:30	gr	Cermak V	 	702		3 : 0	11-4 11-7 12-10	6
+13:00	gr	Sobisek M	 	799		1 : 3	7-11 7-11 11-9 9-11	-1.6
+12:00	gr	Kostal M	 	731		3 : 0	11-5 11-5 11-4	+8.3
+28 Jan 2025 20:00 Tournament A14. league 600-700								
+		Janata T		707	3 place			-1
+		Opponent		Rat.	Result			Delta
+23:26	3rd	Plachy Ji	 	696		3 : 0	11-3 14-12 18-16	+7.1
+22:53	gr	Pavelka R	 	704		0 : 3	3-11 8-11 10-12	-8.2
+21:00	gr	Novak K	 	668		2 : 3	12-14 8-11 11-8 11-6 5-11	-5.6
+20:31	gr	Plachy Ji	 	696		3 : 1	11-7 11-8 4-11 12-10	+5.3
+28 Jan 2025 00:00 Tournament A12. league 700-800								
+		Janata T		707	1 place			+21.8
+		Opponent		Rat.	Result			Delta
+5:30	Final	Krejci R	 	693		3 : 1	11-9 5-11 12-10 14-12	+5.1
+4:30	gr	Bares Ja	 	700		3 : 1	11-8 8-11 11-6 13-11	+5.6
+3:00	gr	Krejci R	 	693		2 : 3	11-9 11-9 7-11 7-11 7-11	-4.6
+1:30	gr	Plachy Ji	 	696		3 : 0	11-8 11-9 11-8	+7.1
+0:00	gr	Schopf Karel	 	705		3 : 0	12-10 11-4 12-10	+7.8
+27 Jan 2025 00:00 Tournament A12. league 600-700								
+		Janata T		700	3 place			+5.2
+		Opponent		Rat.	Result			Delta
+5:06	3rd	Cermak V	 	746		3 : 0	11-8 12-10 11-9	+11.7
+4:36	gr	Cermak V	 	746		1 : 3	11-6 7-11 8-11 6-11	-3.2
+3:00	gr	Novak K	 	672		3 : 2	11-6 11-9 5-11 4-11 15-13	+2.9
+1:30	gr	Prokupek Ja	 	702		3 : 1	11-9 11-9 7-11 11-8	+6.1
+0:00	gr	Tuma D	 	641		0 : 3	8-11 9-11 3-11	-12.7
+27 Jan 2025 20:00 Tournament A12. league 700-800								
+		Janata T		700	2 place			+3.4
+		Opponent		Rat.	Result			Delta
+23:30	Final	Prokupek Ja	 	702		1 : 3	4-11 3-11 12-10 9-11	-5.9
+22:00	gr	Plachy Ji	 	694		3 : 0	11-7 11-7 11-9	+7.6
+21:30	gr	Prokupek Ja	 	702		2 : 3	5-11 8-11 11-9 11-7 5-11	-3.9
+20:00	gr	Bares Ja	 	725		3 : 2	11-6 8-11 11-6 7-11 12-10	5
+26 Jan 2025 16:00 Tournament A12. league 700-800								
+		Janata T		709	3 place			-9.3
+		Opponent		Rat.	Result			Delta
+19:01	3rd	Plachy Ji	 	705		3 : 1	11-4 11-5 1-11 11-7	+5.7
+18:00	gr	Plachy Ji	 	705		1 : 3	7-11 11-6 9-11 7-11	-6.3
+17:30	gr	Prokupek Ja	 	696		2 : 3	11-6 14-12 7-11 3-11 6-11	-4.5
+16:00	gr	Cermak V	 	732		1 : 3	11-6 6-11 1-11 8-11	-4.6
+25 Jan 2025 12:00 Tournament A14. league 700-800								
+		Janata T		715	4 place			-5.9
+		Opponent		Rat.	Result			Delta
+15:04	3rd	Cermak V	 	745		0 : 3	12-14 5-11 6-11	-5.6
+14:30	gr	Kir M	 	711		1 : 3	7-11 5-11 12-10 9-11	-6.2
+13:05	gr	Cermak V	 	745		3 : 0	11-9 11-9 11-8	+10.4
+12:02	gr	Plachy Ji	 	704		2 : 3	7-11 8-11 11-9 14-12 4-11	-4.5
+23 Jan 2025 00:00 Tournament A12. league 700-800								
+		Janata T		726	3 place			-10.2
+		Opponent		Rat.	Result			Delta
+5:00	3rd	Schopf Karel	 	690		3 : 0	11-9 12-10 16-14	+5.1
+3:30	gr	Prokupek Ja	 	714		0 : 3	9-11 2-11 7-11	-8.9
+2:30	gr	Tazler Ja	 	697		3 : 1	9-11 12-10 14-12 11-2	+4.2
+1:30	gr	Cermak V	 	732		1 : 3	11-7 5-11 5-11 3-11	-5.6
+0:30	gr	Schopf Karel	 	690		2 : 3	11-9 3-11 6-11 11-9 2-11	-5.4
+22 Jan 2025 00:00 Tournament A14. league 600-700								
+		Janata T		704	1 place			+22.1
+		Opponent		Rat.	Result			Delta
+5:30	Final	Sychra M	 	753		3 : 2	7-11 11-6 11-2 6-11 11-6	+5.9
+3:36	gr	Sychra M	 	753		3 : 0	13-11 11-8 12-10	+11.9
+2:34	gr	Pavelka R	 	666		3 : 1	6-11 13-11 11-9 11-3	+3.7
+1:30	gr	Hanus Ji	 	707		2 : 3	11-6 11-7 10-12 8-11 8-11	-3.9
+0:30	gr	Plachy Ji	 	698		3 : 2	5-11 11-5 11-9 3-11 11-7	+3.7
+20 Jan 2025 16:00 Tournament A17. league 700-800								
+		Janata T		690	1 place			+15.4
+		Opponent		Rat.	Result			Delta
+19:30	Final	Plachy Ji	 	689		3 : 1	6-11 11-6 11-8 11-7	6
+18:29	gr	Plachy Ji	 	689		3 : 1	11-4 6-11 11-7 12-10	6
+17:00	gr	Tazler Ja	 	704		3 : 2	8-11 13-11 11-6 4-11 12-10	+4.6
+16:00	gr	Sychra M	 	739		2 : 3	11-8 6-11 10-12 11-6 5-11	-2
+19 Jan 2025 00:00 Tournament A12. league 700-800								
+		Janata T		690	4 place			+6.3
+		Opponent		Rat.	Result			Delta
+5:02	3rd	Sychra M	 	751		0 : 3	12-14 7-11 8-11	-3.1
+4:00	gr	Krejci R	 	664		2 : 3	10-12 11-9 11-6 3-11 5-11	-5
+3:00	gr	Tazler Ja	 	705		2 : 3	11-7 11-8 3-11 7-11 4-11	-3.4
+2:00	gr	Kouble D	 	733		3 : 0	11-7 16-14 11-9	+11.4
+0:30	gr	Sychra M	 	751		3 : 2	6-11 12-10 6-11 11-2 11-4	+6.4
+19 Jan 2025 20:00 Tournament A12. league 700-800								
+		Janata T		690	2 place			-5.9
+		Opponent		Rat.	Result			Delta
+23:30	Final	Cermak V	 	692		0 : 3	6-11 7-11 5-11	-7.8
+22:30	gr	Cermak V	 	692		2 : 3	6-11 5-11 12-10 11-5 4-11	-3.9
+21:30	gr	Prokupek Ja	 	745		2 : 3	12-10 10-12 13-11 4-11 9-11	-1.8
+20:30	gr	Plachy Ji	 	678		3 : 0	11-5 11-3 11-8	7
+17 Jan 2025 16:00 Tournament A14. league 600-700								
+		Janata T		704	4 place			-14.2
+		Opponent		Rat.	Result			Delta
+19:09	3rd	Novak K	 	676		1 : 3	11-4 7-11 7-11 5-11	-7.7
+18:00	gr	Belousek J	 	725		0 : 3	3-11 9-11 10-12	-6.3
+17:00	gr	Novak K	 	676		3 : 0	11-5 11-9 11-4	+5.8
+16:30	gr	Vizek M	 	655		2 : 3	12-10 7-11 12-10 6-11 10-12	-6
+15 Jan 2025 00:00 Tournament A14. league 600-700								
+		Janata T		694	2 place			+10.7
+		Opponent		Rat.	Result			Delta
+5:30	Final	Prokupek Ja	 	741		1 : 3	12-14 8-11 11-8 9-11	-3.2
+3:30	gr	Kir M	 	686		3 : 0	11-7 11-7 11-9	+7.3
+2:30	gr	Pavelka R	 	672		3 : 1	12-10 11-6 7-11 12-10	+4.7
+1:30	gr	Prokupek Ja	 	741		0 : 3	10-12 7-11 7-11	-4.2
+0:32	gr	Krejci R	 	686		3 : 1	11-3 9-11 11-6 12-10	+5.5
+14 Jan 2025 00:00 Tournament A12. league 600-700								
+		Janata T		688	3 place			+0.8
+		Opponent		Rat.	Result			Delta
+5:00	3rd	Pavelka R	 	672		3 : 0	15-13 11-7 11-4	+6.8
+4:30	gr	Prokupek Ja	 	715		3 : 2	11-7 3-11 11-6 9-11 11-7	+5.1
+3:00	gr	Fojt P	 	683		1 : 3	7-11 6-11 11-3 7-11	-6.3
+1:30	gr	Krejci R	 	687		3 : 2	11-6 10-12 7-11 11-8 15-13	4
+0:00	gr	Pavelka R	 	672		0 : 3	9-11 9-11 9-11	-9.2
+14 Jan 2025 16:00 Tournament A12. league 600-700								
+		Janata T		688	2 place			+6.6
+		Opponent		Rat.	Result			Delta
+19:31	Final	Prokupek Ja	 	715		2 : 3	4-11 11-9 8-11 12-10 10-12	-2.9
+18:00	gr	Prokupek Ja	 	715		1 : 3	11-6 7-11 6-11 3-11	-4.4
+17:00	gr	Vogel Ja	 	694		3 : 1	8-11 11-6 11-7 11-7	+6.3
+16:30	gr	Dousa T	 	675		3 : 0	11-8 12-10 11-8	7
+11 Jan 2025 00:00 Tournament A17. league 600-700								
+		Janata T		683	2 place			+5.6
+		Opponent		Rat.	Result			Delta
+5:30	Final	Barta To	 	627		2 : 3	8-11 3-11 11-6 11-1 11-13	-6.2
+4:30	gr	Andrle T	 	664		3 : 1	8-11 11-8 11-9 11-8	+4.8
+3:30	gr	Placek M	 	642		3 : 2	16-14 7-11 11-8 6-11 13-11	+2.4
+2:00	gr	Barta To	 	627		3 : 0	11-5 15-13 12-10	+3.5
+1:00	gr	Holovatiuk Yu	 	591		3 : 1	11-6 4-11 11-6 11-9	+0.5
+10 Jan 2025 20:00 Tournament A14. league 600-700								
+		Janata T		665	2 place			+17.9
+		Opponent		Rat.	Result			Delta
+23:30	Final	Sychra M	 	715		2 : 3	6-11 11-7 8-11 11-8 7-11	-2
+22:31	gr	Novak K	 	694		3 : 1	12-10 11-8 4-11 11-9	+7.7
+21:30	gr	Sychra M	 	715		3 : 2	10-12 14-12 11-8 7-11 11-7	6
+20:30	gr	Plachy Ji	 	706		3 : 2	11-8 11-7 6-11 7-11 11-4	+5.6
+9 Jan 2025 00:00 Tournament A17. league 600-700								
+		Janata T		660	2 place			+5.8
+		Opponent		Rat.	Result			Delta
+5:30	Final	Placek M	 	638		1 : 3	9-11 11-8 7-11 7-11	-7.3
+4:30	gr	Placek M	 	638		3 : 2	11-4 11-7 11-13 3-11 11-9	+3.1
+3:30	gr	Barta To	 	619		3 : 0	11-7 11-3 11-1	+4.7
+2:00	gr	Holovatiuk Yu	 	622		3 : 1	11-9 11-5 2-11 14-12	+3.7
+1:00	gr	Steffan Ja	 	577		3 : 1	11-7 8-11 11-2 11-7	1
+8 Jan 2025 00:00 Tournament A17. league 600-700								
+		Janata T		647	1 place			+14.5
+		Opponent		Rat.	Result			Delta
+5:30	Final	Smrcek M	 	568		3 : 1	7-11 11-4 11-8 12-10	+1.3
+4:30	gr	Barta To	 	626		3 : 2	8-11 9-11 11-7 11-6 11-4	+3.2
+3:30	gr	Adamec M	 	608		3 : 0	11-9 11-8 14-12	+4.9
+2:00	gr	Steffan Ja	 	585		3 : 0	11-9 11-7 11-9	3
+1:00	gr	Smrcek M	 	568		3 : 1	15-13 11-9 11-13 13-11	+1.3
+5 Jan 2025 12:00 Tournament A14. league 600-700								
+		Janata T		635	2 place			+18.6
+		Opponent		Rat.	Result			Delta
+15:30	Final	Pycha P	 	715		2 : 3	11-6 5-11 11-13 14-12 7-11	-0.8
+14:30	gr	Malek L	 	615		3 : 0	12-10 11-9 11-9	+6.4
+13:01	gr	Plachy Ji	 	701		3 : 0	13-11 11-7 11-4	+13.2
+12:00	gr	Pycha P	 	715		2 : 3	11-8 11-9 5-11 7-11 11-13	-0.8
+5 Jan 2025 20:00 Tournament A14. league 600-700								
+		Janata T		635	2 place			-6
+		Opponent		Rat.	Result			Delta
+23:36	Final	Picek P	 	569		2 : 3	7-11 11-6 11-6 10-12 6-11	-6.6
+22:00	gr	Barta To	 	617		2 : 3	12-14 11-7 11-3 7-11 7-11	-4.7
+21:30	gr	Picek P	 	569		3 : 0	11-8 11-5 11-7	+2.7
+20:00	gr	Steffan Ja	 	586		3 : 2	2-11 11-5 11-9 9-11 11-8	2
+4 Jan 2025 00:00 Tournament A14. league 600-700								
+		Janata T		613	1 place			+22.6
+		Opponent		Rat.	Result			Delta
+5:30	Final	Steffan Ja	 	569		3 : 0	13-11 11-7 12-10	+4.5
+4:30	gr	Holovatiuk Yu	 	627		3 : 2	11-5 11-6 10-12 9-11 11-8	+4.5
+3:00	gr	Picek P	 	582		3 : 0	11-4 11-7 11-6	+5.5
+1:30	gr	Smrcek M	 	610		3 : 2	7-11 11-6 7-11 11-6 13-11	+3.9
+0:00	gr	Steffan Ja	 	569		3 : 1	9-11 11-7 11-7 11-7	+3.4
+2 Jan 2025 20:00 Tournament A17. league 600-700								
+		Janata T		617	3 place			-3.3
+		Opponent		Rat.	Result			Delta
+23:19	3rd	Kolar M	 	584		3 : 0	11-9 11-4 11-6	+5.4
+22:09	gr	Fisera M	 	612		3 : 1	1-11 11-9 11-4 11-8	+5.7
+21:48	gr	Kolar M	 	584		1 : 3	5-11 11-8 7-11 7-11	-8
+20:00	gr	Briza F	 	604		1 : 3	6-11 12-10 9-11 10-12	-6.8
+1 Jan 2025 20:00 Tournament A17. league 600-700								
+		Janata T		614	3 place			+3.9
+		Opponent		Rat.	Result			Delta
+23:00	3rd	Steffan Ja	 	591		3 : 2	4-11 7-11 11-5 11-5 11-7	+3.1
+22:00	gr	Barta To	 	640		3 : 2	7-11 11-8 11-8 7-11 11-9	+5.1
+21:00	gr	Steffan Ja	 	591		3 : 0	11-7 11-6 11-3	+6.2
+20:30	gr	Krok L	 	577		0 : 3	8-11 9-11 7-11	-10.9
+30 Dec 2024 00:00 Tournament A17. league 600-700								
+		Janata T		630				-17.3
+		Opponent		Rat.	Result			Delta
+4:00	gr	Kir M	 	681		1 : 3	2-11 11-8 9-11 7-11	-2.9
+2:30	gr	Fojt P	 	637		1 : 3	11-7 9-11 9-11 7-11	-5.6
+1:00	gr	Pavelka R	 	681		0 : 3	10-12 3-11 3-11	-4
+0:00	gr	Andrle T	 	650		1 : 3	7-11 9-11 11-4 10-12	-4.8
+								
+								
