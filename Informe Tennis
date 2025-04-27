@@ -63,22 +63,13 @@ Te compartire el historial de cada jugador uno por uno en el chat
 - **predicción de enfrentamiento hipotético**
 ---
 
-## 4. Checklist rápido para la solicitud
-
-- [ ] ¿Tienes los historiales de ambos jugadores?
-- [ ] ¿Incluyen las variables: resultado, superficie, DR, aces, DF, 1st/2nd serve, BPs, etc?
-- [ ] ¿Quieres el análisis para una superficie específica o global?
-- [ ] ¿Te interesa el análisis de sets/puntos promedio?
-- [ ] ¿Quieres predicción de enfrentamiento hipotético?
-- [ ] ¿Deseas recomendaciones tácticas?
-
----
-
-## 6. Formato de Entrega
+## 4. Formato de Entrega
 
 - Markdown estructurado, tablas y resúmenes por superficie.
 - Insights al final.
 - Incluir análisis táctico ampliado de la superficie principal 
 - Incluir Evolucion Reciente ("Momento" y Tendencia) de la superficie principal
+
+---
 
 
