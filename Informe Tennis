@@ -1,4 +1,5 @@
 Realiza un Informe Metodológico: Análisis Comparativo de Tenistas Profesionales (Estadístico y Táctico)
+Te compartire el historial de cada jugador uno por uno en el chat
 
 ## 1. Recolección y Preparación de Datos
 
@@ -16,7 +17,7 @@ Realiza un Informe Metodológico: Análisis Comparativo de Tenistas Profesionale
 
 ### a) Estadísticas Generales y Cuadro Resumen
 
-- **Por superficie**: hard, clay, grass.
+- **Por superficie**: hard, clay, grass. (superficie principal:)
 - **Variables clave**: Win Rate, DR, % de primer servicio, puntos ganados con primer y segundo saque, aces, dobles faltas, break points salvados.
 - **Cuadro comparativo** entre ambos jugadores por superficie.
 
@@ -52,24 +53,17 @@ Realiza un Informe Metodológico: Análisis Comparativo de Tenistas Profesionale
 
 ## 3. Reglas y Detalles Importantes
 
-- **Siempre separar por superficie**. Si la mayoría de partidos son en hard, el análisis se enfoca ahí. Si hay variedad, presentar por cada superficie.
+- **Siempre separar por superficie**. Si la mayoría de partidos son la superficie principal, el análisis se enfoca ahí. Si hay variedad, presentar por cada superficie.
 - **Usar promedios y porcentajes**, no solo el resultado final.
 - **Explicar siglas** la primera vez (ej: DR=Dominance Ratio).
 - **Enfocarse en los últimos 6-12 meses** salvo que el usuario pida otro periodo.
 - **Citar partidos clave** (finales, victorias/derrotas ante top 50, etc.).
 - **Ser claro en fortalezas/debilidades**, no solo en los números.
 - **Añadir “insights” tácticos**: cómo debería jugar cada uno para ganar.
-
+- **predicción de enfrentamiento hipotético**
 ---
 
-## 4. Ejemplo de Solicitud Efectiva
-
-> “Te paso el historial de estos dos jugadores, ¿puedes hacer un análisis comparativo profesional como el anterior pero con foco en hard?  
-> Variables: win rate, DR, aces, % primer servicio, break points, enfrentamientos recientes y conclusión táctica.”
-
----
-
-## 5. Checklist rápido para tu solicitud
+## 4. Checklist rápido para la solicitud
 
 - [ ] ¿Tienes los historiales de ambos jugadores?
 - [ ] ¿Incluyen las variables: resultado, superficie, DR, aces, DF, 1st/2nd serve, BPs, etc?
@@ -84,6 +78,7 @@ Realiza un Informe Metodológico: Análisis Comparativo de Tenistas Profesionale
 
 - Markdown estructurado, tablas y resúmenes por superficie.
 - Insights al final.
-- Ofrecer desglose extra si el usuario lo solicita (por torneo, por año, etc).
+- Incluir análisis táctico ampliado de la superficie principal 
+- Incluir Evolucion Reciente ("Momento" y Tendencia) de la superficie principal
 
-Te compartire el historial de cada jugador uno por uno en el chat
+
