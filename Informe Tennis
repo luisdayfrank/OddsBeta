@@ -1,0 +1,89 @@
+Realiza un Informe Metodológico: Análisis Comparativo de Tenistas Profesionales (Estadístico y Táctico)
+
+## 1. Recolección y Preparación de Datos
+
+**a) Formato de los datos requeridos:**  
+- Historial reciente de partidos de cada jugador (ideal: últimos 6-12 meses), preferentemente en tabla.
+- Variables mínimas por partido:
+  - Fecha, Torneo, Superficie, Ronda, Ranking propio y rival, Score, DR (Dominance Ratio), Aces %, DF %, 1st Serve In %, 1st Serve Won %, 2nd Serve Won %, Break Points Salvados, Duración.
+
+**b) Separar los datos por jugador**  
+- Cada jugador debe tener su propio historial, claramente identificado.
+
+---
+
+## 2. Estructura General del Análisis
+
+### a) Estadísticas Generales y Cuadro Resumen
+
+- **Por superficie**: hard, clay, grass.
+- **Variables clave**: Win Rate, DR, % de primer servicio, puntos ganados con primer y segundo saque, aces, dobles faltas, break points salvados.
+- **Cuadro comparativo** entre ambos jugadores por superficie.
+
+### b) Desempeño ante rivales por ranking
+
+- Resultados ante top 10, 20, 50, 100, 200.
+- Win rate y partidos destacados contra rivales fuertes.
+
+### c) Tendencias y patrones
+
+- Rachas positivas/negativas.
+- Mejor torneo reciente.
+- Evolución en rondas avanzadas.
+- Cambios de rendimiento a lo largo del año.
+
+### d) Sets y puntos promedio
+
+- Promedio de sets por partido.
+- Juegos ganados y perdidos por partido.
+- Puntos promedio por set.
+
+### e) Análisis de enfrentamiento directo reciente
+
+- Si hubo enfrentamientos recientes, incluir DR, % de primer servicio, break points, sets, y síntesis del partido.
+
+### f) Predicción y conclusiones
+
+- Probabilidad estimada de victoria de cada jugador en la superficie relevante.
+- Factores clave para el enfrentamiento (por ejemplo: si el partido es largo, si uno depende del saque, etc).
+- Recomendaciones tácticas para ambos.
+
+---
+
+## 3. Reglas y Detalles Importantes
+
+- **Siempre separar por superficie**. Si la mayoría de partidos son en hard, el análisis se enfoca ahí. Si hay variedad, presentar por cada superficie.
+- **Usar promedios y porcentajes**, no solo el resultado final.
+- **Explicar siglas** la primera vez (ej: DR=Dominance Ratio).
+- **Enfocarse en los últimos 6-12 meses** salvo que el usuario pida otro periodo.
+- **Citar partidos clave** (finales, victorias/derrotas ante top 50, etc.).
+- **Ser claro en fortalezas/debilidades**, no solo en los números.
+- **Añadir “insights” tácticos**: cómo debería jugar cada uno para ganar.
+
+---
+
+## 4. Ejemplo de Solicitud Efectiva
+
+> “Te paso el historial de estos dos jugadores, ¿puedes hacer un análisis comparativo profesional como el anterior pero con foco en hard?  
+> Variables: win rate, DR, aces, % primer servicio, break points, enfrentamientos recientes y conclusión táctica.”
+
+---
+
+## 5. Checklist rápido para tu solicitud
+
+- [ ] ¿Tienes los historiales de ambos jugadores?
+- [ ] ¿Incluyen las variables: resultado, superficie, DR, aces, DF, 1st/2nd serve, BPs, etc?
+- [ ] ¿Quieres el análisis para una superficie específica o global?
+- [ ] ¿Te interesa el análisis de sets/puntos promedio?
+- [ ] ¿Quieres predicción de enfrentamiento hipotético?
+- [ ] ¿Deseas recomendaciones tácticas?
+
+---
+
+## 6. Formato de Entrega
+
+- Markdown estructurado, tablas y resúmenes por superficie.
+- Insights al final.
+- Ofrecer desglose extra si el usuario lo solicita (por torneo, por año, etc).
+
+Te compartire el historial de cada jugador uno por uno en el chat
