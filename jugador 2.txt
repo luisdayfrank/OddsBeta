@@ -1,236 +1,532 @@
-28 Arp 2025 00:00 Tournament А17. league 550-600									
-		Parhomenko D		575	4 place			+5.3	
-		Opponent		Rat.	Result			Delta	
-05:00	3rd	Mikuska A	⇔	581		0 : 3	9-11 5-11 3-11	-7.5	
-03:30	gr	Dedek Ji	⇔	630		3 : 1	11-6 11-5 6-11 11-9	+9.3	
-02:30	gr	Picek P	⇔	569		3 : 0	12-10 11-2 11-6	+7.5	
-01:30	gr	Mikuska A	⇔	581		3 : 2	11-7 4-11 4-11 11-9 11-9	+4.3	
-00:30	gr	Kolenic T	⇔	571		0 : 3	5-11 6-11 4-11	-8.3	
-26 Arp 2025 12:00 Tournament A12. league 550-600									
-		Parhomenko D		576	3 place			-0.4	
-		Opponent		Rat.	Result			Delta	
-15:00	3rd	Malek L	⇔	557		3 : 0	11-4 11-7 11-6	+6.5	
-14:00	gr	Barta To	⇔	628		0 : 3	9-11 8-11 10-12	-3.8	
-13:00	gr	Darin K	⇔	563		1 : 3	16-18 4-11 12-10 7-11	-6.8	
-12:30	gr	Malek L	⇔	557		3 : 2	11-9 11-9 2-11 8-11 11-4	+3.3	
-25 Arp 2025 12:00 Tournament A12. league 550-600									
-		Parhomenko D		568	2 place			+10.3	
-		Opponent		Rat.	Result			Delta	
-15:30	Final	Darin K	⇔	548		2 : 3	4-11 11-3 11-8 8-11 6-11	-4.8	
-14:00	gr	Darin K	⇔	548		3 : 2	13-11 7-11 11-8 7-11 11-8	+3.2	
-13:00	gr	Longin M	⇔	529		3 : 1	11-8 11-7 7-11 11-9	+3.7	
-12:30	gr	Malek L	⇔	564		3 : 0	11-2 11-7 11-3	+7.6	
-25 Arp 2025 08:00 Tournament А17. league 550-600									
-		Parhomenko D		568	4 place			-2.4	
-		Opponent		Rat.	Result			Delta	
-11:00	3rd	Olejarcik S	⇔	625		1 : 3	11-9 10-12 5-11 6-11	-2.6	
-10:00	gr	Lam Tien Tiep	⇔	592		2 : 3	9-11 9-11 11-8 11-2 5-11	-3	
-09:30	gr	Sulava L	⇔	565		1 : 3	11-5 9-11 7-11 7-11	-6.2	
-08:00	gr	Olejarcik S	⇔	625		3 : 1	11-13 12-10 11-9 11-6	+9.4	
-23 Arp 2025 20:00 Tournament A14. league 500-550									
-		Parhomenko D		566	2 place			+2.7	
-		Opponent		Rat.	Result			Delta	
-23:30	Final	Varcl Ja jr.	⇔	541		0 : 3	7-11 7-11 7-11	-10	
-22:00	gr	Darin K	⇔	564		3 : 2	8-11 11-13 11-3 11-7 11-8	+3.9	
-21:30	gr	Dolezal V	⇔	494		3 : 0	11-9 11-9 11-4	+2.2	
-20:00	gr	Varcl Ja jr.	⇔	541		3 : 0	11-4 11-7 11-2	+6	
-22 Arp 2025 12:00 Tournament A14. league 550-600									
-		Parhomenko D		577	3 place			-10.5	
-		Opponent		Rat.	Result			Delta	
-15:00	3rd	Longin M	⇔	533		3 : 1	15-13 11-7 4-11 11-8	+3.4	
-14:00	gr	Lam Tien Tiep	⇔	572		2 : 3	7-11 9-11 11-4 11-5 4-11	-4.2	
-13:30	gr	Longin M	⇔	533		2 : 3	7-11 11-4 11-9 4-11 7-11	-5.8	
-12:00	gr	Darin K	⇔	569		2 : 3	11-7 11-7 3-11 7-11 5-11	-4.3	
-21 Arp 2025 08:00 Tournament A12. league 500-550									
-		Parhomenko D		578	1 place			-0.5	
-		Opponent		Rat.	Result			Delta	
-11:30	Final	Horak D	⇔	540		3 : 1	11-7 11-4 4-11 12-10	+3.7	
-10:00	gr	Horak D	⇔	540		1 : 3	5-11 10-12 11-3 6-11	-8.3	
-09:30	gr	Kanok Ja	⇔	502		3 : 1	9-11 13-11 11-5 11-6	+1.4	
-08:00	gr	Dolezal V	⇔	510		3 : 1	14-12 11-4 7-11 12-10	+1.9	
-20 Arp 2025 12:00 Tournament А17. league 550-600									
-		Parhomenko D		570	1 place			+9	
-		Opponent		Rat.	Result			Delta	
-15:30	Final	Malek L	⇔	555		3 : 1	9-11 11-4 11-7 11-5	+5.1	
-14:30	gr	Kolek D	⇔	537		3 : 1	11-9 11-6 8-11 11-5	+4	
-13:33	gr	Steffan Ja	⇔	564		3 : 2	12-14 11-8 6-11 12-10 11-7	+3.7	
-12:30	gr	Malek L	⇔	555		2 : 3	10-12 11-6 4-11 11-9 5-11	-4.6	
-19 Arp 2025 12:00 Tournament А17. league 550-600									
-		Parhomenko D		548	1 place			+23	
-		Opponent		Rat.	Result			Delta	
-15:30	Final	Longin M	⇔	536		3 : 0	11-5 11-7 11-4	+7.1	
-14:30	gr	Longin M	⇔	536		3 : 0	11-4 13-11 12-10	+7.1	
-13:00	gr	Kolek D	⇔	548		3 : 2	9-11 6-11 13-11 13-11 14-12	+4	
-12:00	gr	Horak D	⇔	549		3 : 2	11-8 8-11 11-7 7-11 14-12	+4	
-17 Arp 2025 12:00 Tournament A12. league 550-600									
-		Parhomenko D		552	3 place			-3.7	
-		Opponent		Rat.	Result			Delta	
-15:00	3rd	Janousek L	⇔	592		3 : 1	11-7 12-14 11-9 11-5	+8.4	
-14:30	gr	Janousek L	⇔	592		0 : 3	7-11 6-11 6-11	-4.8	
-13:30	gr	Barta To	⇔	611		0 : 3	10-12 2-11 8-11	-3.3	
-12:30	gr	Dedek Ji	⇔	597		0 : 3	7-11 9-11 5-11	-4.4	
-16 Arp 2025 12:00 Tournament A14. league 550-600									
-		Parhomenko D		569	4 place			-17.3	
-		Opponent		Rat.	Result			Delta	
-15:00	3rd	Fisera M	⇔	593		1 : 3	5-11 11-8 1-11 1-11	-4.6	
-14:34	gr	Kolar M	⇔	644		0 : 3	5-11 3-11 5-11	-2	
-13:30	gr	Fisera M	⇔	593		1 : 3	6-11 6-11 11-8 10-12	-4.6	
-12:38	gr	Olejarcik S	⇔	593		0 : 3	7-11 9-11 2-11	-6.1	
-15 Arp 2025 00:00 Tournament A14. league 600-700									
-		Parhomenko D		579				-9.9	
-		Opponent		Rat.	Result			Delta	
-04:00	gr	Briza F	⇔	632		0 : 3	5-11 6-11 8-11	-3.8	
-02:30	gr	Barta To	⇔	638		1 : 3	7-11 7-11 11-8 12-14	-2.5	
-01:00	gr	Novak K	⇔	668		1 : 3	10-12 13-11 9-11 13-15	-0.6	
-00:00	gr	Holovatiuk Yu	⇔	642		0 : 3	7-11 8-11 9-11	-3	
-14 Arp 2025 00:00 Tournament А17. league 550-600									
-		Parhomenko D		604				-25.1	
-		Opponent		Rat.	Result			Delta	
-04:30	gr	Dedek Ji	⇔	622		1 : 3	4-11 11-13 11-2 5-11	-4.9	
-03:00	gr	Steffan Ja	⇔	542		1 : 3	4-11 10-12 11-6 5-11	-9.8	
-01:30	gr	Olejarcik S	⇔	582		2 : 3	7-11 9-11 13-11 11-6 12-14	-4.9	
-00:00	gr	Darin K	⇔	566		2 : 3	9-11 11-7 6-11 11-6 9-11	-5.5	
-11 Arp 2025 08:00 Tournament A12. league 550-600									
-		Parhomenko D		616	2 place			-10.7	
-		Opponent		Rat.	Result			Delta	
-11:33	Final	Pleskot Ja	⇔	537		1 : 3	3-11 10-12 11-8 2-11	-10.7	
-10:00	gr	Steffan Ja	⇔	563		3 : 2	11-13 11-7 9-11 12-10 11-9	+1.9	
-09:30	gr	Pleskot Ja	⇔	537		2 : 3	6-11 12-10 4-11 11-7 7-11	-7.1	
-08:00	gr	Sulava L	⇔	574		3 : 0	11-9 11-8 11-4	+4.6	
-10 Arp 2025 12:00 Tournament А17. league 550-600									
-		Parhomenko D		609	1 place			+7.8	
-		Opponent		Rat.	Result			Delta	
-15:30	Final	Dedek Ji	⇔	604		3 : 2	11-2 12-14 11-3 4-11 11-7	+3.8	
-14:00	gr	Dedek Ji	⇔	604		3 : 0	11-4 11-5 11-7	+7.6	
-13:30	gr	Malek L	⇔	546		1 : 3	11-9 9-11 7-11 10-12	-9.7	
-12:00	gr	Steffan Ja	⇔	574		3 : 0	11-9 11-6 11-5	+5.3	
-9 Arp 2025 08:00 Tournament A12. league 600-700									
-		Parhomenko D		596	1 place			+13.1	
-		Opponent		Rat.	Result			Delta	
-11:30	Final	Andrle T	⇔	604		3 : 2	13-11 7-11 11-3 6-11 11-5	+4.3	
-10:30	gr	Smrcek M	⇔	629		3 : 1	11-9 2-11 11-3 11-8	+8	
-09:30	gr	Andrle T	⇔	604		2 : 3	11-9 11-8 3-11 7-11 5-11	-3.7	
-08:30	gr	Darin K	⇔	588		3 : 2	11-7 11-4 9-11 12-14 11-9	+3.7	
-8 Arp 2025 12:00 Tournament A14. league 550-600									
-		Parhomenko D		581	1 place			+15.7	
-		Opponent		Rat.	Result			Delta	
-15:30	Final	Dedek Ji	⇔	593		3 : 2	11-3 15-13 9-11 10-12 11-7	+4.4	
-14:00	gr	Malek L	⇔	572		3 : 0	11-4 11-7 13-11	+7.2	
-13:30	gr	Dedek Ji	⇔	593		1 : 3	11-7 8-11 5-11 5-11	-5.3	
-12:00	gr	Darin K	⇔	589		3 : 0	11-9 12-10 11-6	+8.6	
-7 Arp 2025 00:00 Tournament A12. league 550-600									
-		Parhomenko D		585	4 place			-6.6	
-		Opponent		Rat.	Result			Delta	
-05:01	3rd	Dedek Ji	⇔	587		2 : 3	11-5 11-4 5-11 4-11 6-11	-3.9	
-04:30	gr	Vedmoch M	⇔	600		3 : 2	6-11 9-11 11-4 13-11 11-9	+4.6	
-03:00	gr	Adamec M	⇔	585		0 : 3	3-11 12-14 6-11	-8	
-01:30	gr	Dedek Ji	⇔	587		2 : 3	11-9 9-11 4-11 11-7 9-11	-3.9	
-00:00	gr	Steffan Ja	⇔	562		3 : 1	13-11 11-6 5-11 11-5	+4.6	
-7 Arp 2025 20:00 Tournament А17. league 550-600									
-		Parhomenko D		585	2 place			+3.7	
-		Opponent		Rat.	Result			Delta	
-23:30	Final	Krok L	⇔	617		2 : 3	11-7 11-1 5-11 12-14 5-11	-2.7	
-22:00	gr	Krok L	⇔	617		3 : 2	2-11 9-11 14-12 11-7 11-7	+5.3	
-21:30	gr	Kucirek O	⇔	571		3 : 1	11-3 9-11 11-5 11-9	+5.2	
-20:00	gr	Darin K	⇔	606		1 : 3	8-11 11-4 7-11 11-13	-4.7	
-5 Arp 2025 12:00 Tournament A12. league 550-600									
-		Parhomenko D		569	1 place			+16.9	
-		Opponent		Rat.	Result			Delta	
-15:30	Final	Olejarcik S	⇔	601		3 : 2	8-11 11-7 6-11 11-5 11-9	+5.3	
-14:00	gr	Olejarcik S	⇔	601		2 : 3	11-9 11-2 13-15 8-11 9-11	-2.7	
-13:30	gr	Horak D	⇔	560		3 : 1	11-8 11-8 10-12 12-10	+5.5	
-12:00	gr	Trinta M	⇔	569		3 : 0	11-8 11-5 15-13	+8	
-2 Arp 2025 00:00 Tournament А17. league 500-550									
-		Parhomenko D		570	1 place			-0.2	
-		Opponent		Rat.	Result			Delta	
-05:30	Final	Hasmanda R	⇔	535		3 : 2	12-14 4-11 11-8 11-2 11-7	+2.6	
-04:30	gr	Hasmanda R	⇔	535		2 : 3	4-11 11-9 9-11 11-9 5-11	-5.4	
-03:00	gr	Bruzek P	⇔	488		3 : 0	11-8 11-8 11-6	+1.5	
-01:30	gr	Dolezal V	⇔	533		2 : 3	11-2 9-11 11-7 9-11 7-11	-5.5	
-00:00	gr	Regner T	⇔	543		3 : 0	11-6 11-6 11-8	+5.8	
-1 Arp 2025 12:00 Tournament A14. league 550-600									
-		Parhomenko D		554	1 place			+16.3	
-		Opponent		Rat.	Result			Delta	
-15:30	Final	Darin K	⇔	591		3 : 2	11-9 11-9 7-11 7-11 11-9	+5.5	
-14:01	gr	Lam Tien Tiep	⇔	564		3 : 1	11-7 11-7 8-11 11-7	+6.6	
-13:30	gr	Darin K	⇔	591		1 : 3	11-7 4-11 4-11 5-11	-3.8	
-12:00	gr	Hasmanda R	⇔	545		3 : 0	11-7 11-9 16-14	+7.2	
-30 Mar 2025 16:00 Tournament А17. league 450-500									
-		Parhomenko D		554	1 place			+0.9	
-		Opponent		Rat.	Result			Delta	
-19:33	Final	Hruska V sr.	⇔	493		3 : 1	9-11 11-6 11-5 11-6	+2.4	
-18:00	gr	Hruska V sr.	⇔	493		2 : 3	4-11 11-7 11-4 8-11 8-11	-6.4	
-17:30	gr	Nguyen Ba Hoang Tai	⇔	438		3 : 1	11-9 13-11 5-11 12-10	0	
-16:00	gr	Bruzek P	⇔	505		3 : 0	11-7 11-7 11-4	+4.1	
-28 Mar 2025 00:00 Tournament A14. league 500-550									
-		Parhomenko D		552	3 place			+2.6	
-		Opponent		Rat.	Result			Delta	
-05:02	3rd	Hasmanda R	⇔	535		3 : 2	5-11 12-10 6-11 11-9 11-5	+3.3	
-04:30	gr	Olejarcik S	⇔	572		1 : 3	11-3 10-12 8-11 6-11	-4.8	
-03:00	gr	Regner T	⇔	537		3 : 0	11-8 16-14 11-5	+6.8	
-01:30	gr	Hasmanda R	⇔	535		0 : 3	8-11 10-12 6-11	-9.4	
-00:00	gr	Pleskot Ja	⇔	530		3 : 0	11-9 11-9 11-7	+6.3	
-27 Mar 2025 08:00 Tournament А17. league 550-600									
-		Parhomenko D		544	2 place			+9	
-		Opponent		Rat.	Result			Delta	
-11:30	Final	Steffan Ja	⇔	578		0 : 3	8-11 8-11 6-11	-5.2	
-10:30	gr	Hasmanda R	⇔	542		3 : 0	11-6 11-6 11-5	+7.9	
-09:00	gr	Dolezal V	⇔	558		1 : 3	6-11 13-11 6-11 9-11	-5.1	
-08:00	gr	Steffan Ja	⇔	578		3 : 0	11-8 15-13 11-4	+10.8	
-26 Mar 2025 00:00 Tournament A12. league 500-550									
-		Parhomenko D		528	2 place			+15.8	
-		Opponent		Rat.	Result			Delta	
-05:30	Final	Steffan Ja	⇔	554		1 : 3	9-11 5-11 11-7 8-11	-4.4	
-04:00	gr	Hasmanda R	⇔	549		3 : 0	11-9 11-5 11-7	+9.6	
-02:30	gr	Regner T	⇔	558		3 : 2	4-11 4-11 17-15 11-7 11-6	+5.2	
-01:00	gr	Varcl Ja jr.	⇔	543		3 : 0	11-3 12-10 11-9	+9.2	
-00:00	gr	Steffan Ja	⇔	554		1 : 3	11-13 4-11 11-9 8-11	-4.4	
-23 Mar 2025 00:00 Tournament A12. league 550-600									
-		Parhomenko D		545				-16.9	
-		Opponent		Rat.	Result			Delta	
-04:00	gr	Kucirek O	⇔	569		2 : 3	13-11 5-11 9-11 11-7 4-11	-3.1	
-02:30	gr	Adamec M	⇔	591		0 : 3	9-11 5-11 11-13	-4.3	
-01:00	gr	Bartak K	⇔	559		0 : 3	8-11 9-11 11-13	-6.9	
-00:00	gr	Dedek Ji	⇔	580		2 : 3	11-1 3-11 11-7 7-11 8-11	-2.6	
-21 Mar 2025 16:00 Tournament A14. league 550-600									
-		Parhomenko D		540	2 place			+6	
-		Opponent		Rat.	Result			Delta	
-19:30	Final	Trinta M	⇔	571		2 : 3	8-11 11-9 10-12 11-6 5-11	-2.7	
-18:00	gr	Olejarcik S	⇔	568		3 : 1	11-8 5-11 11-9 11-8	+7.7	
-17:30	gr	Pleskot Ja	⇔	552		3 : 2	9-11 7-11 11-7 20-18 11-9	+4.5	
-16:00	gr	Trinta M	⇔	571		1 : 3	8-11 11-8 7-11 7-11	-4.1	
-20 Mar 2025 12:00 Tournament A14. league 550-600									
-		Parhomenko D		557	4 place			-17.5	
-		Opponent		Rat.	Result			Delta	
-15:00	3rd	Darin K	⇔	608		0 : 3	6-11 8-11 7-11	-3.9	
-14:00	gr	Darin K	⇔	608		0 : 3	5-11 8-11 6-11	-3.9	
-13:00	gr	Dedek Ji	⇔	601		1 : 3	2-11 9-11 11-4 8-11	-3.4	
-12:30	gr	Trinta M	⇔	552		1 : 3	11-9 5-11 9-11 6-11	-6.3	
-19 Mar 2025 08:00 Tournament A12. league 500-550									
-		Parhomenko D		563	2 place			-5	
-		Opponent		Rat.	Result			Delta	
-11:30	Final	Lam Tien Tiep	⇔	540		0 : 3	7-11 9-11 4-11	-9.8	
-10:00	gr	Varcl Ja jr.	⇔	544		3 : 0	11-6 11-9 12-10	+6.5	
-09:30	gr	Hruska V sr.	⇔	506		3 : 1	14-12 9-11 11-6 11-8	+2.6	
-08:00	gr	Lam Tien Tiep	⇔	540		2 : 3	11-6 9-11 12-10 2-11 6-11	-4.9	
-16 Mar 2025 16:00 Tournament A14. league 550-600									
-		Parhomenko D		549	2 place			+14.8	
-		Opponent		Rat.	Result			Delta	
-19:30	Final	Olejarcik S	⇔	542		2 : 3	13-11 8-11 11-4 6-11 7-11	-4.3	
-18:00	gr	Olejarcik S	⇔	542		3 : 2	8-11 14-12 9-11 11-6 11-6	+3.7	
-17:00	gr	Darin K	⇔	588		3 : 0	11-8 11-9 11-9	+11.2	
-16:31	gr	Zoha L	⇔	540		3 : 2	8-11 11-8 11-6 8-11 11-1	+3.6	
-13 Mar 2025 08:00 Tournament A14. league 500-550									
-		Parhomenko D		556	2 place			-6.3	
-		Opponent		Rat.	Result			Delta	
-11:30	Final	Sulava L	⇔	538		2 : 3	8-11 5-11 13-11 11-8 4-11	-4.7	
-10:00	gr	Sulava L	⇔	538		3 : 2	11-3 12-14 14-12 12-14 11-6	+3.3	
-09:30	gr	Regner T	⇔	518		3 : 2	9-11 10-12 11-9 11-5 11-6	+2.5	
-08:00	gr	Hruska V sr.	⇔	523		1 : 3	7-11 11-7 7-11 6-11	-8	
-9 Mar 2025 08:00 Tournament А17. league 500-550									
-		Parhomenko D		505	1 place			+29.6	
-		Opponent		Rat.	Result			Delta	
-11:30	Final	Dolezal V	⇔	508		3 : 0	11-8 12-10 11-7	+8.2	
-10:00	gr	Sulava L	⇔	541		3 : 2	9-11 11-7 7-11 11-6 11-7	+5.4	
-09:00	gr	Dolezal V	⇔	508		3 : 0	11-5 11-9 11-8	+8.2	
-08:30	gr	Pleskot Ja	⇔	522		3 : 1	11-8 5-11 11-9 11-8	+7	
+27 Arp 2025 08:00 Tournament A12. league 550-600								
+		Pleskot Ja		567	3 place			-1.7
+		Opponent		Rat.	Result			Delta
+11:08	3rd	Tacinec M	⇔	551		3 : 1	5-11 13-11 11-4 11-7	+5.1
+10:07	gr	Sulava L	⇔	579		2 : 3	3-11 11-8 8-11 11-5 5-11	-3.5
+09:00	gr	Horak D	⇔	558		3 : 1	7-11 11-6 11-9 11-4	+5.5
+08:30	gr	Tacinec M	⇔	551		0 : 3	7-11 9-11 8-11	-9.2
+25 Arp 2025 00:00 Tournament A12. league 550-600								
+		Pleskot Ja		557	3 place			+10.1
+		Opponent		Rat.	Result			Delta
+05:00	3rd	Kucirek O	⇔	586		3 : 2	12-10 7-11 9-11 11-5 11-9	+5.2
+04:00	gr	Kucirek O	⇔	586		1 : 3	9-11 11-3 5-11 4-11	-4.3
+02:30	gr	Babicka L	⇔	586		2 : 3	11-7 6-11 12-10 4-11 8-11	-2.8
+01:00	gr	Fisar T	⇔	602		3 : 2	12-10 5-11 11-6 8-11 13-11	+5.8
+00:01	gr	Trinta M	⇔	603		3 : 2	8-11 11-7 4-11 11-5 11-6	+5.8
+23 Arp 2025 00:00 Tournament А17. league 550-600								
+		Pleskot Ja		555	4 place			+1.5
+		Opponent		Rat.	Result			Delta
+05:02	3rd	Mikuska A	⇔	588		2 : 3	9-11 4-11 12-10 11-9 9-11	-2.7
+04:00	gr	Picek P	⇔	583		0 : 3	4-11 9-11 13-15	-5.8
+03:00	gr	Babicka L	⇔	592		3 : 2	11-5 4-11 11-8 4-11 11-9	+5.5
+02:00	gr	Dedek Ji	⇔	597		1 : 3	4-11 11-9 5-11 9-11	-3.5
+00:30	gr	Mikuska A	⇔	588		3 : 1	11-9 11-13 13-11 11-3	+8
+22 Arp 2025 08:00 Tournament A14. league 550-600								
+		Pleskot Ja		585	4 place			-29.8
+		Opponent		Rat.	Result			Delta
+11:00	3rd	Malek L	⇔	554		0 : 3	9-11 8-11 7-11	-10.5
+10:00	gr	Trinta M	⇔	589		2 : 3	15-13 13-15 8-11 11-6 7-11	-3.9
+09:00	gr	Sulava L	⇔	563		2 : 3	14-12 5-11 11-13 11-6 8-11	-4.9
+08:30	gr	Malek L	⇔	554		0 : 3	3-11 6-11 9-11	-10.5
+17 Arp 2025 00:00 Tournament A12. league 550-600								
+		Pleskot Ja		568	1 place			+18.1
+		Opponent		Rat.	Result			Delta
+05:30	Final	Picek P	⇔	575		3 : 1	11-9 11-6 8-11 11-9	+6.4
+03:30	gr	Darin K	⇔	589		3 : 0	16-14 11-1 11-9	+9.7
+02:30	gr	Varcl Ja jr.	⇔	545		3 : 1	11-8 11-1 9-11 11-8	+4.6
+01:30	gr	Picek P	⇔	575		0 : 3	4-11 4-11 5-11	-7.4
+00:30	gr	Trinta M	⇔	569		3 : 2	11-9 11-3 6-11 9-11 11-9	+4
+16 Arp 2025 16:00 Tournament A12. league 550-600								
+		Pleskot Ja		564	2 place			+4.7
+		Opponent		Rat.	Result			Delta
+19:30	Final	Picek P	⇔	563		0 : 3	8-11 9-11 4-11	-8.1
+18:30	gr	Picek P	⇔	563		3 : 0	11-7 11-9 11-6	+7.9
+17:36	gr	Paldus T	⇔	590		3 : 1	10-12 11-8 11-3 11-7	+7.6
+16:30	gr	Sulava L	⇔	580		2 : 3	11-3 6-11 12-10 9-11 8-11	-3.3
+15 Arp 2025 16:00 Tournament A12. league 550-600								
+		Pleskot Ja		554	2 place			+10.7
+		Opponent		Rat.	Result			Delta
+19:30	Final	Kolenic T	⇔	602		2 : 3	8-11 11-5 3-11 11-7 8-11	-2.1
+18:00	gr	Vondra P	⇔	590		3 : 1	11-4 11-3 7-11 11-6	+8.2
+17:30	gr	Kolenic T	⇔	602		2 : 3	13-11 9-11 11-8 7-11 11-13	-2.1
+16:00	gr	Janousek L	⇔	607		3 : 2	11-7 8-11 6-11 11-8 12-10	+6.1
+12 Arp 2025 00:00 Tournament A12. league 500-550								
+		Pleskot Ja		562	2 place			-8.2
+		Opponent		Rat.	Result			Delta
+05:30	Final	Bartunek R	⇔	505		0 : 3	7-11 4-11 9-11	-12.6
+04:30	gr	Pastorek O	⇔	536		3 : 0	11-8 11-8 11-5	+5.8
+03:00	gr	Hladik P	⇔	518		3 : 1	13-11 8-11 11-4 11-6	+3.3
+01:30	gr	Havel L 1956	⇔	533		1 : 3	4-11 8-11 13-11 13-15	-7.8
+00:00	gr	Bartunek R	⇔	505		3 : 1	7-11 11-9 11-9 11-9	+2.5
+11 Arp 2025 08:00 Tournament A12. league 550-600								
+		Pleskot Ja		537	1 place			+26.1
+		Opponent		Rat.	Result			Delta
+11:33	Final	Parhomenko D	⇔	616		3 : 1	11-3 12-10 8-11 11-2	+10.7
+10:30	gr	Sulava L	⇔	574		2 : 3	7-11 11-8 17-15 6-11 7-11	-2.5
+09:30	gr	Parhomenko D	⇔	616		3 : 2	11-6 10-12 11-4 7-11 11-7	+7.1
+08:30	gr	Steffan Ja	⇔	563		3 : 0	11-3 11-3 11-3	+10
+10 Arp 2025 08:00 Tournament А17. league 500-550								
+		Pleskot Ja		526	2 place			+11.3
+		Opponent		Rat.	Result			Delta
+11:30	Final	Sulava L	⇔	575		2 : 3	11-5 8-11 11-8 2-11 7-11	-2
+10:30	gr	Hruska V sr.	⇔	506		3 : 0	12-10 11-9 12-10	+6.4
+09:00	gr	Sulava L	⇔	575		2 : 3	5-11 11-8 15-13 10-12 8-11	-2
+08:00	gr	Regner T	⇔	530		3 : 0	11-8 11-7 11-5	+8.3
+6 Arp 2025 08:00 Tournament A14. league 500-550								
+		Pleskot Ja		526	2 place			+1.1
+		Opponent		Rat.	Result			Delta
+11:31	Final	Tacinec M	⇔	550		1 : 3	8-11 8-11 11-4 8-11	-4.5
+10:00	gr	Lam Tien Tiep	⇔	547		3 : 2	10-12 11-8 11-4 7-11 11-5	+4.9
+09:30	gr	Sulava L	⇔	542		3 : 2	11-9 6-11 11-13 11-6 11-8	+4.6
+08:00	gr	Tacinec M	⇔	550		1 : 3	3-11 9-11 11-7 10-12	-4.5
+2 Arp 2025 20:00 Tournament A12. league 500-550								
+		Pleskot Ja		532	2 place			-5.7
+		Opponent		Rat.	Result			Delta
+23:31	Final	Bartunek R	⇔	498		0 : 3	4-11 7-11 5-11	-10.7
+22:00	gr	Zoha L	⇔	521		3 : 1	10-12 11-9 11-6 11-8	+5.3
+21:00	gr	Bartunek R	⇔	498		2 : 3	5-11 11-7 7-11 11-9 2-11	-5.4
+20:30	gr	Bruzek P	⇔	488		3 : 0	11-5 11-7 11-4	+4.5
+1 Arp 2025 16:00 Tournament A14. league 500-550								
+		Pleskot Ja		514	1 place			+19
+		Opponent		Rat.	Result			Delta
+19:30	Final	Sulava L	⇔	543		3 : 2	7-11 11-5 11-6 6-11 11-7	+5.2
+18:00	gr	Bartunek R	⇔	501		3 : 0	11-8 11-9 11-5	+6.9
+17:35	gr	Pazout D	⇔	526		3 : 0	11-6 11-7 11-7	+8.9
+16:00	gr	Sulava L	⇔	543		2 : 3	6-11 11-8 11-8 9-11 9-11	-2.8
+30 Mar 2025 00:00 Tournament A12. league 500-550								
+		Pleskot Ja		504	2 place			+10.8
+		Opponent		Rat.	Result			Delta
+06:30	Final	Sulava L	⇔	524		1 : 3	11-9 9-11 8-11 6-11	-4.8
+05:00	gr	Sulava L	⇔	524		3 : 2	4-11 11-7 5-11 11-5 11-4	+4.8
+02:30	gr	Vojtech P	⇔	520		2 : 3	10-12 13-11 9-11 11-5 9-11	-3.3
+01:00	gr	Lastuvka P	⇔	504		3 : 0	11-8 12-10 11-4	+8
+00:07	gr	Bartunek R	⇔	532		3 : 0	11-2 11-9 13-11	+10.3
+29 Mar 2025 08:00 Tournament А17. league 500-550								
+		Pleskot Ja		518	4 place			-14.2
+		Opponent		Rat.	Result			Delta
+11:04	3rd	Sulava L	⇔	520		2 : 3	9-11 11-9 12-10 3-11 9-11	-3.9
+10:30	gr	Sulava L	⇔	520		2 : 3	11-9 8-11 14-16 11-8 5-11	-3.9
+09:30	gr	Steffan Ja	⇔	583		1 : 3	6-11 11-6 6-11 9-11	-2.1
+08:32	gr	Horak D	⇔	547		1 : 3	7-11 11-8 8-11 9-11	-4.3
+28 Mar 2025 00:00 Tournament A14. league 500-550								
+		Pleskot Ja		530				-12.2
+		Opponent		Rat.	Result			Delta
+04:00	gr	Regner T	⇔	537		0 : 3	4-11 7-11 10-12	-7.5
+02:30	gr	Hasmanda R	⇔	535		3 : 1	11-4 11-5 4-11 11-9	+6.3
+01:00	gr	Olejarcik S	⇔	572		0 : 3	7-11 8-11 6-11	-4.7
+00:00	gr	Parhomenko D	⇔	552		0 : 3	9-11 9-11 7-11	-6.3
+27 Mar 2025 00:00 Tournament A12. league 500-550								
+		Pleskot Ja		510	2 place			+21
+		Opponent		Rat.	Result			Delta
+05:30	Final	Olejarcik S	⇔	553		0 : 3	8-11 7-11 7-11	-4.6
+04:00	gr	Sulava L	⇔	531		3 : 2	8-11 12-10 9-11 11-4 11-3	+4.8
+02:30	gr	Olejarcik S	⇔	553		2 : 3	12-10 6-11 11-8 2-11 9-11	-2.3
+01:00	gr	Picek P	⇔	575		3 : 0	12-10 11-9 11-3	+13.2
+00:00	gr	Pastorek O	⇔	566		3 : 1	1-11 11-9 11-6 11-6	+9.3
+25 Mar 2025 00:00 Tournament A14. league 500-550								
+		Pleskot Ja		528				-18.3
+		Opponent		Rat.	Result			Delta
+04:30	gr	Sulava L	⇔	557		1 : 3	12-10 12-14 9-11 12-14	-4.3
+03:00	gr	Dolezal V	⇔	552		0 : 3	6-11 4-11 7-11	-6.1
+01:30	gr	Picek P	⇔	558		2 : 3	9-11 12-10 8-11 11-5 5-11	-2.8
+00:00	gr	Kucirek O	⇔	543		1 : 3	11-7 3-11 5-11 6-11	-5.1
+24 Mar 2025 08:00 Tournament A12. league 550-600								
+		Pleskot Ja		532	4 place			-4.3
+		Opponent		Rat.	Result			Delta
+11:00	3rd	Trinta M	⇔	580		1 : 3	8-11 11-13 11-8 5-11	-3.2
+10:00	gr	Malek L	⇔	580		0 : 3	6-11 7-11 12-14	-4.2
+09:30	gr	Sulava L	⇔	564		3 : 2	11-6 9-11 9-11 11-4 11-3	+5.2
+08:00	gr	Trinta M	⇔	580		2 : 3	11-8 6-11 17-19 11-8 8-11	-2.1
+23 Mar 2025 00:00 Tournament А17. league 550-600								
+		Pleskot Ja		552				-19.2
+		Opponent		Rat.	Result			Delta
+03:30	gr	Sulava L	⇔	554		1 : 3	11-13 9-11 11-5 7-11	-5.9
+02:30	gr	Regner T	⇔	542		2 : 3	11-6 11-13 4-11 11-7 5-11	-4.4
+01:30	gr	Trinta M	⇔	591		1 : 3	8-11 11-5 6-11 11-13	-3.6
+00:32	gr	Bartunek R	⇔	520		2 : 3	8-11 11-5 11-5 4-11 5-11	-5.3
+21 Mar 2025 16:00 Tournament A14. league 550-600								
+		Pleskot Ja		552	4 place			-11.3
+		Opponent		Rat.	Result			Delta
+19:00	3rd	Olejarcik S	⇔	568		0 : 3	6-11 7-11 11-13	-6.7
+18:30	gr	Trinta M	⇔	571		1 : 3	8-11 11-9 11-13 7-11	-4.8
+17:30	gr	Parhomenko D	⇔	540		2 : 3	11-9 11-7 7-11 18-20 9-11	-4.5
+16:30	gr	Olejarcik S	⇔	568		3 : 2	12-10 5-11 8-11 14-12 11-7	+4.7
+21 Mar 2025 20:00 Tournament A14. league 500-550								
+		Pleskot Ja		552	1 place			+12
+		Opponent		Rat.	Result			Delta
+23:30	Final	Sulava L	⇔	554		3 : 1	3-11 11-9 11-8 11-9	+6.2
+22:30	gr	Regner T	⇔	534		2 : 3	2-11 11-5 7-11 14-12 6-11	-4.7
+21:00	gr	Sulava L	⇔	554		3 : 1	11-9 11-8 4-11 11-5	+6.2
+20:00	gr	Bartunek R	⇔	539		3 : 2	11-8 9-11 11-5 10-12 11-5	+3.5
+20 Mar 2025 16:00 Tournament A14. league 500-550								
+		Pleskot Ja		552	2 place			0.3
+		Opponent		Rat.	Result			Delta
+19:32	Final	Sulava L	⇔	535		1 : 3	9-11 7-11 13-11 8-11	-7
+18:30	gr	Sulava L	⇔	535		3 : 2	11-9 9-11 11-8 9-11 11-9	+3.3
+17:00	gr	Lam Tien Tiep	⇔	564		3 : 1	11-5 11-8 8-11 11-6	+6.7
+16:00	gr	Vondra P	⇔	569		2 : 3	12-10 5-11 9-11 13-11 11-13	-3.3
+17 Mar 2025 20:00 Tournament А17. league 500-550								
+		Pleskot Ja		539	2 place			+13.5
+		Opponent		Rat.	Result			Delta
+23:30	Final	Fisera M	⇔	559		1 : 3	8-11 11-5 8-11 9-11	-4.8
+22:30	gr	Sulava L	⇔	547		3 : 2	9-11 11-6 6-11 11-8 11-8	+4.3
+21:00	gr	Regner T	⇔	542		3 : 1	18-16 5-11 12-10 11-4	+6.2
+20:00	gr	Fisera M	⇔	559		3 : 1	11-7 9-11 11-5 11-9	+7.2
+12 Mar 2025 00:00 Tournament А17. league 500-550								
+		Pleskot Ja		520	1 place			+19.5
+		Opponent		Rat.	Result			Delta
+05:30	Final	Sulava L	⇔	525		3 : 0	15-13 11-8 11-9	+8.3
+04:00	gr	Hruska V sr.	⇔	508		3 : 1	12-10 11-9 9-11 11-6	+5.2
+03:00	gr	Regner T	⇔	538		1 : 3	10-12 11-4 6-11 8-11	-4.9
+02:00	gr	Picek P	⇔	568		3 : 2	4-11 9-11 11-6 11-7 11-6	+5.9
+00:30	gr	Sulava L	⇔	525		3 : 2	8-11 11-2 7-11 11-6 11-6	+4.2
+10 Mar 2025 08:00 Tournament A14. league 500-550								
+		Pleskot Ja		520	2 place			+0.6
+		Opponent		Rat.	Result			Delta
+11:30	Final	Dolezal V	⇔	499		2 : 3	11-7 8-11 3-11 11-9 5-11	-4.9
+10:00	gr	Dolezal V	⇔	499		1 : 3	11-6 7-11 8-11 9-11	-7.3
+09:30	gr	Hruska V sr.	⇔	516		3 : 0	15-13 11-5 12-10	+7.7
+08:00	gr	Kasinski Z	⇔	533		3 : 2	11-13 11-13 11-8 11-6 11-6	+4.5
+9 Mar 2025 08:00 Tournament А17. league 500-550								
+		Pleskot Ja		522	3 place			-0.7
+		Opponent		Rat.	Result			Delta
+11:00	3rd	Sulava L	⇔	541		3 : 1	8-11 11-9 12-10 11-4	+7.2
+10:30	gr	Dolezal V	⇔	508		3 : 2	11-7 7-11 11-5 11-13 11-7	+3.5
+09:30	gr	Sulava L	⇔	541		1 : 3	7-11 9-11 11-8 3-11	-4.8
+08:30	gr	Parhomenko D	⇔	505		1 : 3	8-11 11-5 9-11 8-11	-7
+7 Mar 2025 00:00 Tournament А17. league 500-550								
+		Pleskot Ja		508	2 place			+21
+		Opponent		Rat.	Result			Delta
+05:30	Final	Picek P	⇔	549		0 : 3	11-13 11-13 7-11	-4.8
+04:00	gr	Bruzek P	⇔	512		3 : 2	12-10 9-11 11-13 11-6 11-6	+4.1
+02:30	gr	Dolezal V	⇔	541		3 : 1	6-11 11-7 11-9 12-10	+8
+01:00	gr	Picek P	⇔	549		3 : 2	11-7 11-13 11-7 5-11 16-14	+5.6
+00:02	gr	Parhomenko D	⇔	534		3 : 1	11-8 3-11 11-8 11-6	+7.5
+7 Mar 2025 20:00 Tournament A12. league 500-550								
+		Pleskot Ja		508	4 place			-7.2
+		Opponent		Rat.	Result			Delta
+23:11	3rd	Bartunek R	⇔	516		1 : 3	5-11 11-8 12-14 6-11	-5.6
+22:03	gr	Bartunek R	⇔	516		3 : 2	7-11 9-11 11-5 11-8 11-8	+4.3
+21:00	gr	Kolar M	⇔	610		0 : 3	6-11 11-13 9-11	0
+20:30	gr	Sulava L	⇔	535		0 : 3	6-11 5-11 9-11	-5.9
+3 Mar 2025 16:00 Tournament A12. league 500-550								
+		Pleskot Ja		518	4 place			-9.4
+		Opponent		Rat.	Result			Delta
+19:08	3rd	Sulava L	⇔	538		0 : 3	9-11 8-11 3-11	-6.4
+18:30	gr	Sulava L	⇔	538		2 : 3	4-11 11-13 11-7 11-9 13-15	-3.2
+17:30	gr	Horak D	⇔	560		3 : 2	9-11 12-10 14-12 4-11 11-8	+5.7
+16:30	gr	Paldus T	⇔	525		1 : 3	11-2 8-11 9-11 6-11	-5.5
+2 Mar 2025 08:00 Tournament A12. league 500-550								
+		Pleskot Ja		523	2 place			-4.3
+		Opponent		Rat.	Result			Delta
+11:30	Final	Horak D	⇔	537		2 : 3	11-7 11-3 10-12 11-13 10-12	-3.4
+10:00	gr	Horak D	⇔	537		1 : 3	8-11 11-5 10-12 9-11	-5.1
+09:30	gr	Sulava L	⇔	540		3 : 1	11-8 8-11 11-9 12-10	+7.1
+08:00	gr	Vojtech P	⇔	536		2 : 3	9-11 8-11 13-11 11-7 6-11	-3.5
+1 Mar 2025 00:00 Tournament A12. league 500-550								
+		Pleskot Ja		525	3 place			-1.9
+		Opponent		Rat.	Result			Delta
+05:00	3rd	Olejarcik S	⇔	564		3 : 2	7-11 11-8 11-7 10-12 11-6	+5.6
+04:00	gr	Dolezal V	⇔	540		0 : 3	4-11 12-14 7-11	-6.8
+03:00	gr	Trinta M	⇔	571		2 : 3	6-11 12-10 6-11 11-7 6-11	-2.2
+02:00	gr	Olejarcik S	⇔	564		1 : 3	11-4 4-11 8-11 9-11	-3.7
+00:30	gr	Bartak K	⇔	545		3 : 2	11-4 10-12 7-11 11-9 11-5	+4.8
+28 Feb 2025 08:00 Tournament A14. league 500-550								
+		Pleskot Ja		544	4 place			-19.1
+		Opponent		Rat.	Result			Delta
+11:04	3rd	Hasmanda R	⇔	552		1 : 3	11-5 3-11 5-11 4-11	-5.5
+10:00	gr	Olejarcik S	⇔	552		1 : 3	6-11 7-11 11-8 13-15	-5.5
+09:00	gr	Sulava L	⇔	534		2 : 3	11-9 8-11 3-11 11-2 7-11	-4.4
+08:30	gr	Hasmanda R	⇔	552		2 : 3	11-9 5-11 11-8 7-11 7-11	-3.7
+27 Feb 2025 00:00 Tournament A12. league 550-600								
+		Pleskot Ja		556				-11.6
+		Opponent		Rat.	Result			Delta
+04:30	gr	Kucirek O	⇔	571		1 : 3	3-11 11-8 8-11 6-11	-5.1
+03:00	gr	Olejarcik S	⇔	541		2 : 3	8-11 6-11 11-8 11-9 8-11	-4.6
+01:30	gr	Picek P	⇔	577		0 : 3	12-14 8-11 6-11	-6.3
+00:00	gr	Hruska V sr.	⇔	528		3 : 1	11-8 9-11 11-8 12-10	+4.4
+24 Feb 2025 00:00 Tournament A14. league 550-600								
+		Pleskot Ja		558	2 place			-1.5
+		Opponent		Rat.	Result			Delta
+05:30	Final	Regner T	⇔	563		2 : 3	4-11 7-11 13-11 11-6 4-11	-3.8
+03:30	gr	Picek P	⇔	566		2 : 3	7-11 11-9 2-11 11-5 12-14	-3.7
+02:30	gr	Olejarcik S	⇔	523		3 : 1	6-11 11-9 12-10 11-8	+3.9
+01:30	gr	Regner T	⇔	563		2 : 3	5-11 11-8 11-7 5-11 10-12	-3.8
+00:30	gr	Hruska V sr.	⇔	547		3 : 1	11-3 11-6 7-11 11-7	+5.3
+21 Feb 2025 00:00 Tournament A12. league 550-600								
+		Pleskot Ja		591				-33.5
+		Opponent		Rat.	Result			Delta
+03:31	gr	Adamec M	⇔	572		2 : 3	5-11 11-9 11-5 9-11 9-11	-4.8
+02:30	gr	Dedek Ji	⇔	554		1 : 3	13-11 5-11 3-11 9-11	-8.3
+01:30	gr	Regner T	⇔	567		0 : 3	5-11 6-11 5-11	-9.9
+00:30	gr	Hasmanda R	⇔	560		0 : 3	7-11 9-11 4-11	-10.5
+19 Feb 2025 20:00 Tournament A12. league 550-600								
+		Pleskot Ja		564	1 place			+27.9
+		Opponent		Rat.	Result			Delta
+23:30	Final	Steffan Ja	⇔	587		3 : 2	8-11 3-11 11-4 11-8 11-5	+4.9
+22:30	gr	Krok L	⇔	582		3 : 0	11-6 12-10 11-8	+9.4
+21:30	gr	Holovatiuk Yu	⇔	596		3 : 1	11-7 11-7 10-12 11-5	+7.9
+20:30	gr	Steffan Ja	⇔	587		3 : 2	6-11 11-5 11-7 6-11 11-7	+4.9
+18 Feb 2025 16:00 Tournament A14. league 550-600								
+		Pleskot Ja		580	3 place			-15.1
+		Opponent		Rat.	Result			Delta
+19:05	3rd	Longin M	⇔	567		3 : 2	6-11 11-9 11-13 11-5 11-8	+3.5
+18:00	gr	Kolar M	⇔	619		0 : 3	9-11 9-11 5-11	-4.8
+17:00	gr	Longin M	⇔	567		0 : 3	9-11 8-11 5-11	-9
+16:31	gr	Vondra P	⇔	550		2 : 3	11-13 12-10 10-12 11-4 6-11	-5.2
+16 Feb 2025 00:00 Tournament A14. league 550-600								
+		Pleskot Ja		571	3 place			+9.5
+		Opponent		Rat.	Result			Delta
+05:04	3rd	Kucirek O	⇔	563		3 : 0	11-6 11-8 12-10	+7.4
+04:30	gr	Kolar M	⇔	601		1 : 3	9-11 4-11 11-3 11-13	-4.2
+03:00	gr	Dedek Ji	⇔	577		3 : 0	16-14 11-7 11-9	+8.5
+01:36	gr	Regner T	⇔	568		0 : 3	9-11 6-11 9-11	-8.2
+00:00	gr	Kucirek O	⇔	563		3 : 1	9-11 11-8 11-3 11-5	+5.6
+14 Feb 2025 00:00 Tournament A12. league 550-600								
+		Pleskot Ja		568	1 place			+3.1
+		Opponent		Rat.	Result			Delta
+05:35	Final	Hruska V sr.	⇔	543		3 : 2	10-12 11-5 5-11 11-6 11-5	+3
+04:30	gr	Hasmanda R	⇔	581		2 : 3	11-7 7-11 6-11 11-5 10-12	-3.5
+03:00	gr	Hruska V sr.	⇔	543		3 : 2	9-11 11-7 9-11 11-7 11-6	+3
+01:31	gr	Picek P	⇔	555		2 : 3	11-5 5-11 8-11 11-3 7-11	-4.5
+00:00	gr	Regner T	⇔	576		3 : 2	11-9 12-14 9-11 11-8 11-8	+4.3
+12 Feb 2025 08:00 Tournament А17. league 550-600								
+		Pleskot Ja		569	3 place			-0.6
+		Opponent		Rat.	Result			Delta
+11:00	3rd	Trinta M	⇔	590		3 : 1	11-6 9-11 11-8 11-9	+7.2
+10:00	gr	Regner T	⇔	557		0 : 3	9-11 2-11 8-11	-9
+09:30	gr	Kolar M	⇔	562		1 : 3	5-11 8-11 11-7 8-11	-6.4
+08:00	gr	Trinta M	⇔	590		3 : 1	11-6 9-11 11-6 11-9	+7.2
+10 Feb 2025 00:00 Tournament А17. league 500-550								
+		Pleskot Ja		552	1 place			+17.8
+		Opponent		Rat.	Result			Delta
+05:30	Final	Kolar M	⇔	537		3 : 0	11-6 11-9 11-8	+6.8
+04:30	gr	Sulava L	⇔	563		3 : 0	11-6 12-10 11-9	+8.9
+03:30	gr	Picek P	⇔	556		1 : 3	9-11 4-11 11-9 6-11	-5.8
+02:02	gr	Kolar M	⇔	537		3 : 1	13-11 13-15 11-5 11-5	+5.1
+01:00	gr	Havel L 1956	⇔	503		3 : 2	11-9 9-11 7-11 11-3 11-5	+2
+9 Feb 2025 08:00 Tournament A12. league 550-600								
+		Pleskot Ja		578	4 place			-25.6
+		Opponent		Rat.	Result			Delta
+11:02	3rd	Tacinec M	⇔	564		0 : 3	13-15 9-11 9-11	-9.1
+10:00	gr	Tacinec M	⇔	564		3 : 2	11-5 9-11 5-11 11-6 11-8	+3.4
+09:34	gr	Vojtech P	⇔	529		0 : 3	6-11 8-11 2-11	-11.9
+08:00	gr	Hasmanda R	⇔	544		1 : 3	9-11 11-3 5-11 7-11	-8
+8 Feb 2025 08:00 Tournament A12. league 550-600								
+		Pleskot Ja		585	3 place			-6.6
+		Opponent		Rat.	Result			Delta
+11:10	3rd	Trinta M	⇔	575		3 : 2	2-11 13-11 11-6 12-14 11-9	+3.6
+10:30	gr	Kolar M	⇔	536		3 : 2	11-13 5-11 11-5 11-8 11-7	+2
+09:00	gr	Trinta M	⇔	575		1 : 3	8-11 8-11 11-7 5-11	-6.6
+08:00	gr	Krejcik L	⇔	585		1 : 3	6-11 6-11 11-6 5-11	-6
+7 Feb 2025 16:00 Tournament A12. league 550-600								
+		Pleskot Ja		575	2 place			-4.4
+		Opponent		Rat.	Result			Delta
+19:30	Final	Sulava L	⇔	537		2 : 3	11-9 5-11 11-4 6-11 8-11	-5.5
+18:00	gr	Trinta M	⇔	581		3 : 2	11-6 4-11 14-12 4-11 11-9	+4.2
+17:00	gr	Hasmanda R	⇔	552		3 : 1	8-11 11-9 11-8 11-1	+4.6
+16:30	gr	Sulava L	⇔	537		1 : 3	11-8 6-11 5-11 8-11	-8.3
+7 Feb 2025 20:00 Tournament A12. league 500-550								
+		Pleskot Ja		575	1 place			+15.6
+		Opponent		Rat.	Result			Delta
+23:30	Final	Horak D	⇔	524		3 : 0	11-8 11-9 11-7	+3.9
+22:00	gr	Bartunek R	⇔	541		3 : 1	8-11 11-8 11-6 11-9	+4
+21:00	gr	Darin K	⇔	526		3 : 1	8-11 11-6 11-1 11-4	+3
+20:30	gr	Horak D	⇔	524		3 : 0	11-4 11-9 11-6	+3.9
+4 Feb 2025 16:00 Tournament A12. league 550-600								
+		Pleskot Ja		571	1 place			+5
+		Opponent		Rat.	Result			Delta
+19:30	Final	Tacinec M	⇔	552		3 : 1	5-11 11-9 11-4 11-6	+4.9
+18:00	gr	Kasinski Z	⇔	556		3 : 0	12-10 11-8 11-8	+6.8
+17:30	gr	Sulava L	⇔	520		3 : 2	2-11 11-7 11-9 8-11 11-9	+2
+16:04	gr	Tacinec M	⇔	552		0 : 3	6-11 9-11 4-11	-9.5
+2 Feb 2025 08:00 Tournament А17. league 550-600								
+		Pleskot Ja		567	1 place			+4.6
+		Opponent		Rat.	Result			Delta
+11:30	Final	Kasinski Z	⇔	554		3 : 1	11-3 8-11 11-9 11-3	+5.2
+10:00	gr	Tacinec M	⇔	555		3 : 2	3-11 5-11 11-7 11-8 12-10	+3.5
+09:30	gr	Horak D	⇔	527		1 : 3	7-11 11-7 7-11 8-11	-8.4
+08:00	gr	Kasinski Z	⇔	554		3 : 2	10-12 11-5 5-11 12-10 11-6	+3.5
+31 Jan 2025 08:00 Tournament A12. league 550-600								
+		Pleskot Ja		553	1 place			+14.5
+		Opponent		Rat.	Result			Delta
+11:30	Final	Olejarcik S	⇔	536		3 : 1	12-10 8-11 11-7 13-11	+4.9
+10:00	gr	Olejarcik S	⇔	536		2 : 3	11-13 15-13 8-11 11-7 10-12	-4.7
+09:30	gr	Kasinski Z	⇔	546		3 : 2	9-11 11-9 11-9 13-15 11-9	+3.7
+08:00	gr	Kolar M	⇔	576		3 : 0	11-6 11-9 14-12	+9.8
+30 Jan 2025 08:00 Tournament А17. league 500-550								
+		Pleskot Ja		561	3 place			-7.7
+		Opponent		Rat.	Result			Delta
+11:04	3rd	Sulava L	⇔	545		3 : 0	11-9 11-9 12-10	+6.7
+10:00	gr	Sulava L	⇔	545		3 : 2	9-11 11-5 9-11 11-6 11-2	+3.3
+09:30	gr	Olejarcik S	⇔	535		0 : 3	11-13 6-11 7-11	-10.1
+08:00	gr	Kolar M	⇔	562		0 : 3	7-11 4-11 7-11	-8
+29 Jan 2025 08:00 Tournament A12. league 500-550								
+		Pleskot Ja		562	2 place			-0.4
+		Opponent		Rat.	Result			Delta
+11:30	Final	Sulava L	⇔	513		2 : 3	14-16 11-6 11-2 7-11 7-11	-6
+10:00	gr	Darin K	⇔	560		3 : 2	11-7 8-11 9-11 11-6 12-10	+3.9
+09:30	gr	Sulava L	⇔	513		2 : 3	12-10 7-11 8-11 11-7 8-11	-6
+08:00	gr	Olejarcik S	⇔	551		3 : 0	11-7 11-5 11-9	+7.1
+28 Jan 2025 00:00 Tournament A14. league 500-550								
+		Pleskot Ja		550	1 place			+13.7
+		Opponent		Rat.	Result			Delta
+05:30	Final	Bartak K	⇔	528		3 : 0	11-7 11-7 11-9	+6.3
+04:00	gr	Bartak K	⇔	528		3 : 0	11-6 11-8 11-8	+6.3
+02:30	gr	Dolezal V	⇔	544		2 : 3	6-11 11-5 4-11 12-10 8-11	-4.2
+01:00	gr	Darin K	⇔	567		3 : 0	11-5 11-8 12-10	+9.4
+00:00	gr	Sulava L	⇔	527		2 : 3	11-4 7-11 11-7 8-11 10-12	-4.9
+27 Jan 2025 08:00 Tournament A12. league 500-550								
+		Pleskot Ja		538	3 place			+11.7
+		Opponent		Rat.	Result			Delta
+11:00	3rd	Sulava L	⇔	551		3 : 2	7-11 11-3 4-11 11-6 11-3	+4.5
+10:00	gr	Darin K	⇔	571		0 : 3	10-12 10-12 5-11	-5.4
+09:00	gr	Sulava L	⇔	551		3 : 1	14-12 8-11 11-9 11-9	+6.7
+08:30	gr	Kasinski Z	⇔	531		3 : 1	9-11 12-10 11-7 12-10	+5.5
+26 Jan 2025 00:00 Tournament А17. league 500-550								
+		Pleskot Ja		549	4 place			-10.9
+		Opponent		Rat.	Result			Delta
+05:00	3rd	Bartunek R	⇔	521		2 : 3	9-11 11-5 12-14 11-9 7-11	-5.1
+04:30	gr	Dolezal V	⇔	536		3 : 1	11-9 6-11 11-9 11-8	+5.2
+03:00	gr	Bartunek R	⇔	521		0 : 3	8-11 4-11 5-11	-10.3
+01:30	gr	Sulava L	⇔	540		2 : 3	11-7 10-12 11-8 6-11 12-14	-4.4
+00:00	gr	Regner T	⇔	511		3 : 1	11-5 14-12 4-11 11-7	+3.7
+24 Jan 2025 00:00 Tournament A14. league 550-600								
+		Pleskot Ja		552	4 place			-11.7
+		Opponent		Rat.	Result			Delta
+05:01	3rd	Sulava L	⇔	526		0 : 3	7-11 7-11 3-11	-10
+04:00	gr	Hruska V sr.	⇔	523		3 : 0	11-8 11-8 11-7	+5.7
+02:30	gr	Sulava L	⇔	526		3 : 2	11-9 5-11 2-11 11-9 11-6	+3
+01:03	gr	Picek P	⇔	565		0 : 3	10-12 7-11 8-11	-6.9
+00:01	gr	Olejarcik S	⇔	565		2 : 3	1-11 8-11 11-8 11-8 7-11	-3.5
+24 Jan 2025 16:00 Tournament A12. league 500-550								
+		Pleskot Ja		552	2 place			+9.9
+		Opponent		Rat.	Result			Delta
+19:30	Final	Kolar M	⇔	538		1 : 3	6-11 11-9 12-14 9-11	-6.8
+18:00	gr	Jonas M	⇔	571		3 : 1	11-6 5-11 11-6 11-9	+7.2
+17:00	gr	Kolar M	⇔	538		3 : 2	4-11 10-12 13-11 11-8 11-4	+3.5
+16:30	gr	Paldus T	⇔	520		3 : 0	11-6 11-7 11-9	+5.4
+21 Jan 2025 20:00 Tournament А17. league 500-550								
+		Pleskot Ja		542	1 place			+10
+		Opponent		Rat.	Result			Delta
+23:30	Final	Sulava L	⇔	518		3 : 2	8-11 11-7 9-11 11-8 11-4	+3
+22:00	gr	Darin K	⇔	578		3 : 1	10-12 11-9 11-3 11-7	+8.1
+21:00	gr	Bartunek R	⇔	520		3 : 2	11-4 9-11 12-10 10-12 11-6	+3.1
+20:30	gr	Sulava L	⇔	518		2 : 3	10-12 11-8 8-11 11-7 10-12	-5
+19 Jan 2025 00:00 Tournament А17. league 500-550								
+		Pleskot Ja		548	2 place			-4.7
+		Opponent		Rat.	Result			Delta
+05:30	Final	Kucirek O	⇔	561		0 : 3	12-14 5-11 5-11	-6.9
+03:30	gr	Kucirek O	⇔	561		2 : 3	11-8 5-11 9-11 11-9 9-11	-3.5
+02:32	gr	Olejarcik S	⇔	540		3 : 1	11-8 12-14 14-12 11-3	+5.6
+01:30	gr	Sulava L	⇔	542		3 : 2	8-11 11-8 11-4 6-11 11-7	+3.8
+00:30	gr	Hruska V sr.	⇔	541		2 : 3	11-6 8-11 11-7 9-11 9-11	-4.3
+18 Jan 2025 08:00 Tournament А17. league 550-600								
+		Pleskot Ja		547	3 place			+1.1
+		Opponent		Rat.	Result			Delta
+11:00	3rd	Kolar M	⇔	569		3 : 2	6-11 11-3 11-7 9-11 11-3	+4.9
+10:30	gr	Horak D	⇔	545		1 : 3	10-12 10-12 11-8 9-11	-6.1
+09:00	gr	Kasinski Z	⇔	556		1 : 3	5-11 6-11 14-12 7-11	-5.4
+08:00	gr	Kolar M	⇔	569		3 : 1	11-9 9-11 11-9 11-4	+7.3
+17 Jan 2025 00:00 Tournament A12. league 500-550								
+		Pleskot Ja		548	3 place			-0.2
+		Opponent		Rat.	Result			Delta
+05:00	3rd	Picek P	⇔	573		3 : 2	7-11 7-11 11-9 11-9 13-11	+5
+04:00	gr	Picek P	⇔	573		2 : 3	11-6 15-13 8-11 9-11 7-11	-3
+02:30	gr	Sulava L	⇔	539		2 : 3	14-12 8-11 14-12 6-11 13-15	-4.3
+01:00	gr	Bartak K	⇔	540		3 : 0	11-2 11-9 11-7	+7.4
+00:00	gr	Kucirek O	⇔	553		1 : 3	11-9 9-11 10-12 4-11	-5.7
+16 Jan 2025 00:00 Tournament А17. league 500-550								
+		Pleskot Ja		538	2 place			+10.1
+		Opponent		Rat.	Result			Delta
+05:30	Final	Bartak K	⇔	526		1 : 3	11-9 8-11 3-11 8-11	-6.7
+03:30	gr	Sulava L	⇔	556		3 : 1	11-9 16-14 3-11 15-13	+7.1
+02:30	gr	Bartak K	⇔	526		3 : 0	12-10 11-6 11-6	+7
+01:30	gr	Hasmanda R	⇔	556		1 : 3	9-11 8-11 11-4 9-11	-4.9
+00:30	gr	Hruska V sr.	⇔	525		3 : 0	11-9 11-7 17-15	+7
+14 Jan 2025 08:00 Tournament A12. league 500-550								
+		Pleskot Ja		543	3 place			-4.9
+		Opponent		Rat.	Result			Delta
+11:01	3rd	Chalupnicek M	⇔	514		3 : 0	11-9 11-5 11-3	+5.6
+10:30	gr	Chalupnicek M	⇔	514		3 : 2	9-11 13-15 11-4 11-3 11-5	+2.8
+09:00	gr	Sulava L	⇔	545		1 : 3	9-11 9-11 11-3 7-11	-5.9
+08:00	gr	Hasmanda R	⇔	545		0 : 3	9-11 8-11 4-11	-7.8
+13 Jan 2025 00:00 Tournament A12. league 550-600								
+		Pleskot Ja		545	4 place			-2.1
+		Opponent		Rat.	Result			Delta
+05:21	3rd	Picek P	⇔	567		0 : 3	5-11 8-11 3-11	-6.3
+04:00	gr	Picek P	⇔	567		2 : 3	11-8 9-11 7-11 11-9 10-12	-3.1
+03:03	gr	Pastorek O	⇔	585		2 : 3	13-11 9-11 8-11 11-7 8-11	-2.4
+02:00	gr	Kolar M	⇔	599		3 : 0	12-10 11-5 11-9	+12.3
+00:30	gr	Smrcek M	⇔	582		2 : 3	11-7 9-11 11-7 7-11 4-11	-2.6
+12 Jan 2025 08:00 Tournament A14. league 550-600								
+		Pleskot Ja		541	2 place			+4.7
+		Opponent		Rat.	Result			Delta
+11:31	Final	Tacinec M	⇔	559		1 : 3	14-12 11-13 4-11 9-11	-5
+10:00	gr	Parhomenko D	⇔	535		3 : 0	11-9 11-8 11-5	+7.5
+09:00	gr	Vojtech P	⇔	563		2 : 3	9-11 11-4 6-11 11-4 7-11	-3.1
+08:30	gr	Tacinec M	⇔	559		3 : 2	11-3 9-11 11-9 5-11 11-5	+4.7
+11 Jan 2025 08:00 Tournament A14. league 500-550								
+		Pleskot Ja		549	4 place			-7.6
+		Opponent		Rat.	Result			Delta
+11:00	3rd	Sulava L	⇔	549		2 : 3	5-11 11-8 11-13 11-5 4-11	-4
+10:05	gr	Kolar M	⇔	601		0 : 3	8-11 7-11 4-11	-3.9
+09:00	gr	Sulava L	⇔	549		3 : 1	7-11 11-8 11-4 11-5	+6
+08:34	gr	Dolezal V	⇔	507		2 : 3	14-12 5-11 8-11 13-11 7-11	-5.7
+8 Jan 2025 16:00 Tournament A12. league 500-550								
+		Pleskot Ja		562	2 place			-12.6
+		Opponent		Rat.	Result			Delta
+19:30	Final	Bartunek R	⇔	526		0 : 3	5-11 6-11 9-11	-10.9
+18:03	gr	Sulava L	⇔	547		3 : 2	11-2 8-11 9-11 12-10 11-7	+3.4
+17:37	gr	Bartunek R	⇔	526		3 : 1	15-13 11-6 9-11 11-7	+3.8
+16:00	gr	Hruska V sr.	⇔	544		0 : 3	7-11 8-11 7-11	-9.5
+7 Jan 2025 20:00 Tournament А17. league 500-550								
+		Pleskot Ja		549	1 place			+13.9
+		Opponent		Rat.	Result			Delta
+23:30	Final	Sulava L	⇔	548		3 : 1	11-7 11-6 7-11 12-10	+5.9
+22:00	gr	Sulava L	⇔	548		3 : 1	11-8 5-11 17-15 11-3	+5.9
+21:30	gr	Bartunek R	⇔	538		2 : 3	11-9 11-3 4-11 9-11 3-11	-4.4
+20:00	gr	Hruska V sr.	⇔	544		3 : 1	8-11 11-3 11-2 11-8	+5.7
+6 Jan 2025 16:00 Tournament A14. league 500-550								
+		Pleskot Ja		553	2 place			-3.4
+		Opponent		Rat.	Result			Delta
+19:32	Final	Bartunek R	⇔	526		2 : 3	7-11 11-8 9-11 12-10 5-11	-5.1
+18:00	gr	Olejarcik S	⇔	537		1 : 3	5-11 4-11 11-4 7-11	-7
+17:30	gr	Bartunek R	⇔	526		3 : 1	11-7 11-5 11-13 11-6	+4.4
+16:07	gr	Sulava L	⇔	545		3 : 2	11-13 11-3 3-11 11-4 12-10	+3.7
+5 Jan 2025 08:00 Tournament А17. league 550-600								
+		Pleskot Ja		561	4 place			-8.4
+		Opponent		Rat.	Result			Delta
+11:11	3rd	Jonas M	⇔	585		1 : 3	8-11 11-5 11-13 12-14	-4.6
+10:30	gr	Hruska V sr.	⇔	539		2 : 3	8-11 9-11 11-4 14-12 7-11	-4.9
+09:00	gr	Jonas M	⇔	585		2 : 3	11-5 4-11 7-11 11-3 8-11	-3.1
+08:00	gr	Kolenic T	⇔	565		3 : 2	9-11 11-5 7-11 11-6 11-7	+4.2
+4 Jan 2025 08:00 Tournament A12. league 550-600								
+		Pleskot Ja		545	1 place			+17.4
+		Opponent		Rat.	Result			Delta
+11:30	Final	Kolenic T	⇔	571		3 : 1	8-11 11-3 11-8 11-9	+7.5
+10:30	gr	Olejarcik S	⇔	557		3 : 2	12-14 11-6 11-4 9-11 11-9	+4.5
+09:30	gr	Jonas M	⇔	571		3 : 1	13-11 11-2 7-11 11-6	+7.6
+08:30	gr	Kolenic T	⇔	571		2 : 3	6-11 12-10 6-11 11-7 8-11	-3
+3 Jan 2025 08:00 Tournament A12. league 500-550								
+		Pleskot Ja		553	3 place			-8.1
+		Opponent		Rat.	Result			Delta
+11:01	3rd	Sulava L	⇔	556		3 : 1	11-8 9-11 11-8 13-11	+6.2
+10:30	gr	Hasmanda R	⇔	528		2 : 3	11-8 7-11 5-11 11-8 5-11	-5
+09:00	gr	Sulava L	⇔	556		1 : 3	9-11 6-11 11-6 5-11	-5.8
+08:00	gr	Horak D	⇔	556		2 : 3	11-7 4-11 3-11 12-10 7-11	-3.9
+2 Jan 2025 00:00 Tournament A12. league 500-550								
+		Pleskot Ja		567	3 place			-13
+		Opponent		Rat.	Result			Delta
+05:00	3rd	Hasmanda R	⇔	531		3 : 2	11-8 3-11 13-11 12-14 11-2	+2.6
+04:30	gr	Hasmanda R	⇔	531		0 : 3	9-11 8-11 9-11	-10.9
+03:31	gr	Sulava L	⇔	540		3 : 0	11-6 11-7 11-6	+5.9
+02:00	gr	Hruska V sr.	⇔	519		3 : 2	8-11 11-8 4-11 11-9 11-8	+2.1
+01:00	gr	Bruzek P	⇔	503		0 : 3	7-11 10-12 7-11	-13.1
+1 Jan 2025 08:00 Tournament A14. league 500-550								
+		Pleskot Ja		565	1 place			+2.3
+		Opponent		Rat.	Result			Delta
+11:30	Final	Sulava L	⇔	529		3 : 0	11-6 11-3 11-9	+5.1
+10:00	gr	Sulava L	⇔	529		1 : 3	6-11 11-8 6-11 8-11	-8.2
+09:30	gr	Vilhan M	⇔	494		3 : 1	11-9 9-11 11-6 11-4	+1.7
+08:00	gr	Regner T	⇔	501		3 : 0	11-6 11-9 11-7	+2.9
