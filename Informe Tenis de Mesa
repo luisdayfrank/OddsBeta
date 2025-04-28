@@ -11,7 +11,7 @@ Generar insights accionables (ej: estrategias, rivales a evitar).
 		
 2. Datos Requeridos		
 		
-Para cada jugador, se necesita:	(esta informacion esta en archivos de texto, en este momento te comparto el primero y en el proximo mensaje te comparto el segundo)	
+Para cada jugador, se necesita:	(esta informacion esta en los archivos de texto adjuntados en este mensaje)	
 		
 Historial de Torneos:		
 		
@@ -73,10 +73,10 @@ Volatilidad (s delta)	Alta (18.7)	Moderada (10.2)
 Eficacia vs. [Rival Común]	39%	63%
 Etc...
 
-6. Estimación de Enfrentamiento		
+6. Estimación de Enfrentamiento	Directo
 		
-Probabilidades de Victoria: Basadas en:			
-Historial directo (si existe).		
+Probabilidades de Victoria Basadas en:			
+Historial directo
 Win Rate en ligas equivalentes.		
 Volatilidad (jugadores inconsistentes son menos predecibles).		
 Generar la probabilidad de ganar en Porcentage  de cada jugador si llegaran a tener un cara a cara
@@ -85,3 +85,37 @@ Predicción de Sets/Puntos:
 Sets más probables (ej: 3-1, 3-2).		
 Puntos totales estimados (basados en promedio de puntos por set).		
 					
+Ejemplo:
+- **Probabilidad de victoria:**
+  - Jugador 1: [ ]%
+  - Jugador 2: [ ]%
+- **Resultado más probable:** [ ]
+
+---
+
+## 6. Índice de Confianza en la Predicción (ICP)
+
+**Cálculo:**
+- Partidos directos: [ ]/[total] = [P_directos]
+- Win rate directos (favorito): [ ]/[partidos] = [W_directos]
+- Partidos contra rivales comunes: [ ]/[total] = [P_comunes]
+- Concordancia resultados comunes: [W_comunes]
+- Peso correctivo (\(\alpha\)): 0.5
+
+\[
+ICP = (P_{directos} \times W_{directos}) + \alpha \times (P_{comunes} \times W_{comunes}) = [ ]
+\]
+
+**Interpretación:**  
+- **ICP ≈ [ ]** (_baja/media/alta confianza_)  
+- _Motivo: Explicación breve._
+
+---
+
+## 7. Conclusión
+
+- Favorito leve o claro (según datos), pero matizar según el ICP.
+- **Índice de Confianza en la Predicción (ICP): [ ]** (_baja/media/alta_).  
+  _Recomendación: ..._
+
+---
