@@ -1,133 +1,553 @@
-22 Arp 2025 12:00 Tournament A16. league 600-700								
-		Neterda R		618	3 place			+8.7
+28 Arp 2025 00:00 Tournament A12. league 900-1000								
+		Urbaniec R		877				+2.1
 		Opponent		Rat.	Result			Delta
-15:00	3rd	Zikmunda Z	 	647		3 : 1	7-11 11-7 11-4 11-3	+7.7
-14:30	gr	Klusacek P	 	613		2 : 3	5-11 8-11 11-5 12-10 4-11	-4.2
-13:00	gr	Zikmunda Z	 	647		3 : 0	11-4 11-9 11-6	+10.3
-12:00	gr	Kaisler V	 	649		0 : 3	11-13 8-11 5-11	-5.5
-15 Arp 2025 20:00 Tournament A16. league 600-700								
-		Neterda R		612	2 place			+6.7
+2:00	gr	Ruzicka Ji	 	941		1 : 3	7-11 8-11 11-9 6-11	-2.2
+0:30	gr	Pagac Z	 	885		3 : 2	12-14 6-11 11-7 11-5 11-9	+4.3
+	gr	Vavrecka M	 	905		0 : 0		0
+	gr	Kliuchuk R	 	862		0 : 0		0
+27 Arp 2025 00:00 Tournament A14. league 800-900								
+		Urbaniec R		886	4 place			-9.3
 		Opponent		Rat.	Result			Delta
-23:30	Final	Pros O	 	618		2 : 3	6-11 8-11 11-6 11-9 3-11	-3.8
-22:30	gr	Pros O	 	618		1 : 3	7-11 11-9 13-15 9-11	-5.6
-21:30	gr	Klusacek P	 	642		3 : 1	11-7 7-11 11-8 11-7	+7.8
-20:30	gr	Kabelka Ja	 	640		3 : 1	11-3 16-18 11-7 11-7	+7.7
-8 Arp 2025 12:00 Tournament A16. league 550-600								
-		Neterda R		618	2 place			-5.8
+5:00	3rd	Pikous M	 	916		1 : 3	11-6 3-11 6-11 6-11	-4.2
+3:30	gr	Batog T	 	888		0 : 3	7-11 7-11 12-14	-7.9
+2:30	gr	Louda Ji	 	835		3 : 0	12-10 11-4 14-12	+3.9
+1:37	gr	Pikous M	 	916		1 : 3	11-4 9-11 4-11 9-11	-4.2
+0:30	gr	Bayer A	 	865		3 : 2	8-11 11-9 9-11 11-8 11-5	+3.1
+26 Arp 2025 16:00 Tournament A17. league 900-1000								
+		Urbaniec R		883	3 place			+4.1
 		Opponent		Rat.	Result			Delta
-15:30	Final	Pros O	 	612		1 : 3	11-8 6-11 6-11 4-11	-6.4
-14:00	gr	Pros O	 	612		3 : 2	17-15 10-12 11-9 11-13 11-6	+3.8
-13:30	gr	Stehlik M	 	568		3 : 0	12-10 11-6 11-4	4
-12:00	gr	Koutnik J	 	588		1 : 3	11-9 5-11 16-18 10-12	-7.8
-5 Arp 2025 20:00 Tournament A16. league 600-700								
-		Neterda R		582	1 place			+36.9
+19:00	3rd	Kliuchuk R	 	881		3 : 0	11-3 11-6 11-6	+7.8
+18:30	gr	Kliuchuk R	 	881		3 : 2	11-7 7-11 11-8 6-11 12-10	+3.9
+17:30	gr	Vavrecka M	 	914		1 : 3	8-11 13-11 3-11 4-11	-4.1
+16:31	gr	Ruzicka Ji	 	934		0 : 3	10-12 8-11 14-16	-3.9
+25 Arp 2025 08:00 Tournament A14. league 800-900								
+		Urbaniec R		882	2 place			+10.5
 		Opponent		Rat.	Result			Delta
-23:33	Final	Jaros R	 	617		3 : 0	11-4 11-7 11-3	+10.8
-22:30	gr	Svoboda P	 	585		3 : 1	11-9 12-10 5-11 11-8	+6.2
-21:30	gr	Cejka M-k	 	620		3 : 0	11-9 11-3 12-10	11
-20:30	gr	Jaros R	 	617		3 : 1	5-11 11-4 11-9 11-8	+8.1
-3 Arp 2025 08:00 Tournament A16. league 600-700								
-		Neterda R		593	3 place			-10.5
+11:30	Final	Kolisnyk O	 	842		2 : 3	11-3 11-9 2-11 6-11 11-13	-5.6
+10:00	gr	Kolisnyk O	 	842		3 : 0	11-9 11-4 11-4	+4.8
+9:30	gr	Pozarsky J	 	834		3 : 0	11-8 11-8 11-6	+4.1
+8:01	gr	Regner M-l	 	865		3 : 0	11-3 11-4 11-6	+6.6
+25 Arp 2025 20:00 Tournament A14. league 800-900								
+		Urbaniec R		882	3 place			-9.2
 		Opponent		Rat.	Result			Delta
-11:00	3rd	Koutnik J	 	596		3 : 1	11-7 13-15 11-8 11-5	+6.2
-10:30	gr	Koutnik J	 	596		1 : 3	11-8 6-11 7-11 8-11	-5.8
-9:30	gr	Kaisler V	 	633		0 : 3	6-11 6-11 7-11	-4.8
-8:31	gr	Pros O	 	612		0 : 3	6-11 10-12 8-11	-6.5
-30 Mar 2025 16:00 Tournament A16. league 600-700								
-		Neterda R		614	4 place			-21.3
+23:00	3rd	Bayer A	 	880		3 : 0	11-4 11-9 11-4	+7.8
+22:00	gr	Kliuchuk R	 	882		1 : 3	11-9 8-11 10-12 11-13	-6
+21:30	gr	Bayer A	 	880		2 : 3	11-13 4-11 11-7 11-9 8-11	-4.1
+20:00	gr	Pikous M	 	891		0 : 3	5-11 3-11 4-11	-7.3
+22 Arp 2025 16:00 Tournament A18. league 800-900								
+		Urbaniec R		857	1 place			+26.5
 		Opponent		Rat.	Result			Delta
-19:01	3rd	Kaisler V	 	624		0 : 3	7-11 10-12 3-11	-7.3
-18:30	gr	Pros O	 	620		2 : 3	11-6 11-9 10-12 5-11 8-11	-3.8
-17:30	gr	Kaisler V	 	624		1 : 3	11-7 10-12 6-11 8-11	-5.4
-16:30	gr	Oburka M	 	595		2 : 3	8-11 18-16 7-11 11-9 4-11	-4.8
-23 Mar 2025 08:00 Tournament A16. league 550-600								
-		Neterda R		607	1 place			+8.5
+19:30	Final	Fojtik T	 	863		3 : 0	11-9 14-12 11-9	+8.5
+18:00	gr	Fojtik T	 	863		3 : 1	11-8 11-8 7-11 11-8	+6.4
+17:00	gr	Kus O	 	831		3 : 0	11-5 11-5 11-3	6
+16:30	gr	Pawlik D	 	817		3 : 0	11-7 12-10 11-8	+4.8
+19 Arp 2025 08:00 Tournament A18. league 800-900								
+		Urbaniec R		858	2 place			-0.5
 		Opponent		Rat.	Result			Delta
-11:30	Final	Koutnik J	 	609		3 : 2	7-11 11-6 12-14 11-5 11-9	+4.1
-10:00	gr	Koutnik J	 	609		3 : 0	11-8 11-4 11-5	+8.2
-9:00	gr	Pesout P	 	571		3 : 0	13-11 11-9 16-14	+5.1
-8:30	gr	Svoboda P	 	585		0 : 3	6-11 7-11 9-11	-9.7
-20 Mar 2025 08:00 Tournament A16. league 550-600								
-		Neterda R		574	1 place			+33.2
+11:30	Final	Przeczek K	 	807		2 : 3	11-8 11-9 6-11 9-11 5-11	-6
+10:00	gr	Pawlik D	 	844		3 : 0	11-1 11-6 11-5	+6.9
+9:30	gr	Przeczek K	 	807		2 : 3	6-11 11-4 12-10 14-16 10-12	-6
+8:03	gr	Velky D jr.	 	807		3 : 0	11-7 11-6 11-3	4
+16 Arp 2025 08:00 Tournament A18. league 800-900								
+		Urbaniec R		846	1 place			+12.8
 		Opponent		Rat.	Result			Delta
-11:30	Final	Malek M	 	622		3 : 1	11-7 7-11 11-6 11-7	+8.9
-10:32	gr	Stehlik M	 	593		3 : 0	11-1 11-6 11-9	+9.5
-9:30	gr	Malek M	 	622		3 : 2	12-14 11-9 3-11 11-4 11-7	+5.9
-8:30	gr	Koutnik J	 	609		3 : 1	9-11 11-8 11-8 11-9	+8.1
-13 Mar 2025 20:00 Tournament A16. league 550-600								
-		Neterda R		568	4 place			-11.1
+11:37	Final	Kindl T	 	842		3 : 1	12-10 10-12 11-5 11-6	+5.8
+10:00	gr	Kindl T	 	842		3 : 1	10-12 11-7 11-4 12-10	+5.8
+9:31	gr	Raska M	 	815		2 : 3	10-12 11-9 11-13 11-6 5-11	-5.2
+8:00	gr	Vrtal O	 	839		3 : 1	11-8 6-11 12-10 11-2	+5.6
+14 Arp 2025 08:00 Tournament A17. league 800-900								
+		Urbaniec R		850	2 place			-3.4
 		Opponent		Rat.	Result			Delta
-23:01	3rd	Rossler Jo	 	548		0 : 3	4-11 6-11 9-11	-9.6
-22:30	gr	Rossler Jo	 	548		3 : 1	8-11 11-6 15-13 11-8	+4.8
-21:00	gr	Cyrus M	 	620		0 : 3	8-11 9-11 3-11	-3.8
-20:00	gr	Pros O	 	626		1 : 3	11-13 11-7 3-11 8-11	-2.5
-13 Mar 2025 08:00 Tournament A16. league 550-600								
-		Neterda R		568	1 place			+18.1
+11:30	Final	Regner M-l	 	852		2 : 3	11-6 8-11 11-8 6-11 9-11	-3.9
+10:00	gr	Sucharda Ja	 	783		3 : 0	11-8 11-4 12-10	+2.7
+9:30	gr	Vondrak M	 	812		3 : 0	11-3 11-5 11-7	5
+8:00	gr	Regner M-l	 	852		0 : 3	9-11 6-11 7-11	-7.8
+13 Arp 2025 00:00 Tournament A12. league 800-900								
+		Urbaniec R		862				-23.4
 		Opponent		Rat.	Result			Delta
-11:30	Final	Stehlik M	 	591		3 : 2	3-11 7-11 13-11 11-5 13-11	+4.9
-10:30	gr	Cvecek M	 	565		3 : 0	11-3 11-4 11-4	+7.7
-9:01	gr	Stehlik M	 	591		3 : 1	7-11 11-8 11-7 11-6	+7.4
-8:00	gr	Jaros R	 	622		1 : 3	7-11 11-9 11-13 7-11	-2.7
-11 Mar 2025 20:00 Tournament A16. league 550-600								
-		Neterda R		565	2 place			+3.2
+4:30	gr	Sedlak M sr.	 	850		0 : 3	10-12 6-11 7-11	-9
+3:00	gr	Zuzanek J	 	813		2 : 3	13-11 9-11 7-11 11-5 12-14	-6
+1:30	gr	Regner M-l	 	847		0 : 3	10-12 5-11 7-11	-9.3
+0:00	gr	Klement M	 	784		3 : 2	11-9 10-12 11-4 7-11 14-12	+0.9
+13 Arp 2025 20:00 Tournament A12. league 800-900								
+		Urbaniec R		862	1 place			+11.6
 		Opponent		Rat.	Result			Delta
-23:30	Final	Svec P	 	602		1 : 3	13-11 9-11 4-11 5-11	-3.8
-22:00	gr	Svec P	 	602		0 : 3	8-11 10-12 11-13	-5.1
-21:00	gr	Herna M	 	562		3 : 0	11-5 12-10 11-5	+7.7
-20:30	gr	Rossler Jo	 	560		3 : 2	13-11 9-11 8-11 11-8 11-7	+3.8
-9 Mar 2025 20:00 Tournament A16. league 550-600								
-		Neterda R		574	4 place			-8.2
+23:30	Final	Regner M-l	 	847		3 : 1	11-3 9-11 11-2 12-10	5
+22:30	gr	Pagac Z	 	874		3 : 1	11-9 9-11 11-6 11-8	+6.7
+21:00	gr	Cmerda O	 	864		3 : 1	11-7 12-10 9-11 12-10	+6.1
+20:00	gr	Regner M-l	 	847		1 : 3	11-6 4-11 7-11 11-13	-7
+12 Arp 2025 16:00 Tournament A14. league 800-900								
+		Urbaniec R		872	3 place			-9
 		Opponent		Rat.	Result			Delta
-23:00	3rd	Rossler Jo	 	566		0 : 3	5-11 8-11 8-11	-8.6
-22:30	gr	Rossler Jo	 	566		3 : 0	11-5 11-7 11-9	+7.4
-21:00	gr	Jaros R	 	613		1 : 3	11-9 7-11 7-11 10-12	-3.6
-20:00	gr	Cyrus M	 	618		1 : 3	12-14 8-11 11-6 8-11	-3.4
-4 Mar 2025 20:00 Tournament A16. league 550-600								
-		Neterda R		566	3 place			+7.9
+19:00	3rd	Tonar L	 	812		3 : 0	11-8 11-3 11-4	+3.2
+18:00	gr	Tonar L	 	812		3 : 0	12-10 11-5 11-4	+3.2
+17:30	gr	Vejvoda V	 	829		1 : 3	11-7 8-11 8-11 6-11	-8.6
+16:00	gr	Zuzanek J	 	793		2 : 3	10-12 15-13 9-11 11-8 8-11	-7.2
+11 Arp 2025 20:00 Tournament A17. league 800-900								
+		Urbaniec R		832	1 place			+40.4
 		Opponent		Rat.	Result			Delta
-23:00	3rd	Rossler Jo	 	579		3 : 0	11-5 11-6 11-6	9
-22:30	gr	Rossler Jo	 	579		1 : 3	9-11 11-6 4-11 9-11	-5.3
-21:30	gr	Kabelka Ja	 	625		3 : 2	8-11 11-8 8-11 11-6 13-11	+6.4
-20:30	gr	Svec P	 	602		2 : 3	8-11 11-6 11-7 7-11 10-12	-2.6
-3 Mar 2025 08:00 Tournament A16. league 550-600								
-		Neterda R		565	2 place			+1.9
+23:30	Final	Pagac Z	 	892		3 : 0	11-8 11-7 11-8	+12.8
+22:30	gr	Pagac Z	 	892		3 : 0	11-7 11-5 17-15	+12.8
+21:30	gr	Sedlak M sr.	 	853		3 : 0	11-3 11-6 12-10	+9.7
+20:30	gr	Zahradnik T	 	839		3 : 2	11-2 7-11 11-13 12-10 12-10	+4.3
+8 Arp 2025 08:00 Tournament A18. league 800-900								
+		Urbaniec R		834	2 place			-0.9
 		Opponent		Rat.	Result			Delta
-11:31	Final	Jaros R	 	594		2 : 3	10-12 3-11 11-7 11-6 8-11	-2.8
-10:30	gr	Hiblbauer J	 	540		0 : 3	9-11 7-11 10-12	-10
-9:06	gr	Cvecek M	 	570		3 : 1	11-8 11-9 5-11 11-6	+6.3
-8:00	gr	Jaros R	 	594		3 : 1	11-5 6-11 11-8 11-7	+7.8
-1 Mar 2025 16:00 Tournament A16. league 550-600								
-		Neterda R		574	4 place			-8.9
+11:30	Final	Vrtal O	 	815		1 : 3	8-11 12-10 6-11 10-12	-7.1
+10:00	gr	Branny D	 	846		3 : 0	11-2 11-6 11-4	9
+9:37	gr	Vrtal O	 	815		0 : 3	11-13 6-11 8-11	-9.5
+8:00	gr	Kindl T	 	835		3 : 1	11-9 11-3 4-11 14-12	+6.1
+7 Arp 2025 08:00 Tournament A14. league 800-900								
+		Urbaniec R		851	3 place			-17
 		Opponent		Rat.	Result			Delta
-19:05	3rd	Oburka M	 	586		1 : 3	11-2 4-11 8-11 1-11	-5.3
-18:30	gr	Hruby R	 	572		2 : 3	16-14 9-11 11-4 8-11 12-14	-4.1
-17:00	gr	Oburka M	 	586		0 : 3	8-11 7-11 8-11	-7
-16:02	gr	Jaros R	 	598		3 : 1	8-11 11-3 11-5 11-9	+7.5
-23 Feb 2025 20:00 Tournament A16. league 600-700								
-		Neterda R		567	4 place			+6.5
+11:00	3rd	Hlawatschke A	 	793		3 : 1	3-11 11-7 11-7 11-9	+2.5
+10:00	gr	Kolisnyk O	 	834		0 : 3	11-13 8-11 8-11	-9.3
+9:30	gr	Pozarsky J	 	776		0 : 3	9-11 5-11 7-11	-14
+8:01	gr	Hlawatschke A	 	793		3 : 0	11-9 11-5 11-9	+3.4
+6 Arp 2025 00:00 Tournament A12. league 800-900								
+		Urbaniec R		856	3 place			-4.8
 		Opponent		Rat.	Result			Delta
-23:00	3rd	Kabelka Ja	 	642		1 : 3	11-9 9-11 8-11 12-14	-1.5
-22:30	gr	Pros O	 	623		1 : 3	10-12 14-12 8-11 10-12	-2.6
-21:30	gr	Kabelka Ja	 	642		3 : 0	11-7 11-8 11-8	14
-20:30	gr	Svec P	 	625		0 : 3	3-11 4-11 4-11	-3.4
-1 Feb 2025 20:00 Tournament A16. league 550-600								
-		Neterda R		553	1 place			+15.5
+5:07	3rd	Louda Ji	 	800		3 : 1	4-11 12-10 11-3 12-10	+2.6
+4:01	gr	Louda Ji	 	800		3 : 1	11-7 11-9 8-11 11-7	+2.6
+3:00	gr	Pikous M	 	856		1 : 3	5-11 3-11 11-8 5-11	-6
+2:00	gr	Sedlak M sr.	 	836		3 : 2	9-11 6-11 11-3 12-10 11-9	+3.2
+0:30	gr	Regner M-l	 	829		1 : 3	9-11 11-5 5-11 4-11	-7.6
+5 Arp 2025 08:00 Tournament A14. league 800-900								
+		Urbaniec R		830	1 place			+27.5
 		Opponent		Rat.	Result			Delta
-23:30	Final	Necas M	 	575		3 : 0	11-5 11-5 11-6	+9.8
-22:30	gr	Krejci A-s	 	535		1 : 3	12-14 10-12 11-7 6-11	-7.1
-21:04	gr	Flesar M	 	572		3 : 1	11-7 8-11 11-9 11-4	+7.1
-20:00	gr	Necas M	 	575		3 : 2	11-13 11-9 11-2 6-11 11-9	+4.9
-19 Jan 2025 20:00 Tournament A16. league 550-600								
-		Neterda R		550	2 place			+2.7
+11:30	Final	Regner M-l	 	836		3 : 0	11-5 11-9 11-5	+8.5
+10:34	gr	Louda Ji	 	803		3 : 0	12-10 11-6 11-7	+5.9
+9:30	gr	Regner M-l	 	836		3 : 1	11-4 11-8 6-11 11-6	+6.4
+8:30	gr	Tonar L	 	828		3 : 1	11-8 11-7 6-11 11-5	+5.9
+4 Arp 2025 20:00 Tournament A17. league 800-900								
+		Urbaniec R		821	3 place			9
 		Opponent		Rat.	Result			Delta
-23:30	Final	Wiederlechner M	 	590		1 : 3	6-11 11-3 4-11 10-12	-3.6
-22:30	gr	Limbursky R	 	515		3 : 0	11-9 11-9 11-5	+5.1
-21:04	gr	Krejci A-s	 	555		3 : 2	11-6 10-12 11-7 9-11 11-7	+4.2
-20:00	gr	Wiederlechner M	 	590		1 : 3	11-9 3-11 13-15 8-11	-3.6
-18 Jan 2025 16:00 Tournament A16. league 550-600								
-		Neterda R		518	1 place			+33.4
+23:00	3rd	Sedlak M sr.	 	860		3 : 0	11-9 11-3 11-8	+11.1
+22:30	gr	Kolisnyk O	 	821		3 : 2	11-9 9-11 4-11 11-8 11-9	4
+21:00	gr	Pikous M	 	854		1 : 3	11-3 8-11 11-13 9-11	-4
+20:00	gr	Sedlak M sr.	 	860		2 : 3	11-9 9-11 11-9 10-12 7-11	-2.5
+3 Arp 2025 20:00 Tournament A14. league 800-900								
+		Urbaniec R		841	4 place			-20.6
 		Opponent		Rat.	Result			Delta
-19:30	Final	Flesar M	 	578		3 : 0	11-7 11-9 11-6	+12.8
-18:30	gr	Pesout P	 	563		3 : 1	11-6 9-11 11-8 11-3	+8.7
-17:30	gr	Oburka M	 	597		0 : 3	9-11 2-11 10-12	-1.7
-16:30	gr	Flesar M	 	578		3 : 0	11-9 11-7 11-7	+12.8
+23:04	3rd	Zahradnik T	 	824		0 : 3	5-11 8-11 10-12	-9.4
+22:00	gr	Brazda A	 	802		0 : 3	8-11 7-11 8-11	-11.1
+21:30	gr	Zahradnik T	 	824		3 : 1	11-5 11-9 5-11 11-5	+4.9
+20:00	gr	Sedlak M sr.	 	858		1 : 3	11-9 5-11 8-11 6-11	-5
+3 Arp 2025 08:00 Tournament A18. league 800-900								
+		Urbaniec R		841	3 place			+0.8
+		Opponent		Rat.	Result			Delta
+11:00	3rd	Machander D	 	826		3 : 1	11-5 7-11 11-4 11-8	+5.1
+10:00	gr	Kindl T	 	829		2 : 3	7-11 11-8 17-15 10-12 9-11	-4.5
+9:30	gr	Kantor L	 	767		2 : 3	5-11 11-8 11-8 8-11 8-11	-7
+8:00	gr	Machander D	 	826		3 : 0	11-5 11-7 14-12	+6.8
+25 Mar 2025 08:00 Tournament A18. league 800-900								
+		Urbaniec R		841	3 place			+0.8
+		Opponent		Rat.	Result			Delta
+11:01	3rd	Kus O	 	860		3 : 2	11-5 6-11 10-12 11-6 17-15	+4.8
+10:30	gr	Branny D	 	856		2 : 3	11-9 9-11 11-7 6-11 10-12	-3.4
+9:30	gr	Kus O	 	860		3 : 2	8-11 12-14 11-6 11-2 15-13	+4.8
+8:30	gr	Sedlacek R	 	868		0 : 3	7-11 7-11 11-13	-5.8
+24 Mar 2025 00:00 Tournament A17. league 800-900								
+		Urbaniec R		851	3 place			-9.7
+		Opponent		Rat.	Result			Delta
+5:00	3rd	Bayer A	 	850		3 : 2	11-9 8-11 11-13 11-5 11-9	4
+4:01	gr	Pagac Z	 	874		0 : 3	8-11 6-11 7-11	-6.2
+2:30	gr	Bayer A	 	850		1 : 3	8-11 6-11 11-3 8-11	-6
+1:00	gr	Batog T	 	850		1 : 3	10-12 12-10 12-14 10-12	-6
+0:00	gr	Vrtal O	 	819		3 : 1	11-8 11-5 11-13 11-9	+4.1
+23 Mar 2025 16:00 Tournament A14. league 800-900								
+		Urbaniec R		845	1 place			+6.8
+		Opponent		Rat.	Result			Delta
+19:30	Final	Sobisek M	 	825		3 : 1	11-8 12-10 9-11 11-5	+4.8
+18:00	gr	Sobisek M	 	825		1 : 3	7-11 11-6 7-11 8-11	-7.2
+17:30	gr	Vondrak M	 	804		3 : 1	11-2 11-7 5-11 11-9	+3.6
+16:02	gr	Kolisnyk O	 	825		3 : 1	6-11 11-4 11-2 11-6	+4.8
+22 Mar 2025 20:00 Tournament A14. league 800-900								
+		Urbaniec R		830	3 place			+15.8
+		Opponent		Rat.	Result			Delta
+23:02	3rd	Theodor F	 	901		3 : 0	11-5 11-9 11-2	+13.7
+22:30	gr	Vrtal O	 	837		1 : 3	7-11 9-11 11-8 8-11	-5.6
+21:00	gr	Pagac Z	 	879		1 : 3	12-10 6-11 12-14 11-13	-3
+20:00	gr	Theodor F	 	901		3 : 1	11-9 9-11 13-11 11-8	+10.3
+21 Mar 2025 20:00 Tournament A12. league 800-900								
+		Urbaniec R		837	2 place			+3.9
+		Opponent		Rat.	Result			Delta
+23:30	Final	Theodor F	 	891		2 : 3	14-12 11-9 8-11 7-11 8-11	-1.8
+22:30	gr	Vrtal O	 	834		3 : 2	5-11 9-11 11-7 11-8 11-5	+3.9
+21:00	gr	Bayer A	 	860		3 : 2	11-4 4-11 9-11 11-7 11-8	+4.9
+20:00	gr	Theodor F	 	891		0 : 3	6-11 9-11 8-11	-3.7
+21 Mar 2025 08:00 Tournament A17. league 800-900								
+		Urbaniec R		837	4 place			-11
+		Opponent		Rat.	Result			Delta
+11:00	3rd	Vrtal O	 	834		1 : 3	7-11 11-8 9-11 4-11	-6.2
+10:30	gr	Vrtal O	 	834		0 : 3	10-12 7-11 7-11	-8.3
+9:00	gr	Regner M-l	 	860		3 : 1	8-11 11-8 11-6 11-5	+7.4
+8:00	gr	Pagac Z	 	889		0 : 3	5-11 14-16 12-14	-3.9
+20 Mar 2025 20:00 Tournament A12. league 800-900								
+		Urbaniec R		853	4 place			-13.8
+		Opponent		Rat.	Result			Delta
+23:01	3rd	Bayer A	 	877		1 : 3	11-9 7-11 6-11 7-11	-4.5
+22:00	gr	Bayer A	 	877		3 : 1	12-10 10-12 11-5 12-10	+7.5
+21:30	gr	Pikous M	 	821		1 : 3	8-11 11-7 14-16 12-14	-7.9
+20:00	gr	Sedlak M sr.	 	842		0 : 3	5-11 8-11 1-11	-8.9
+20 Mar 2025 08:00 Tournament A18. league 800-900								
+		Urbaniec R		853	3 place			-1.2
+		Opponent		Rat.	Result			Delta
+11:00	3rd	Vrtal O	 	844		3 : 1	11-0 8-11 11-7 11-7	+5.5
+10:30	gr	Vrtal O	 	844		1 : 3	11-8 8-11 14-16 2-11	-6.5
+9:00	gr	Kus O	 	855		0 : 3	9-11 11-13 7-11	-7.8
+8:00	gr	Hudeczek R	 	872		3 : 1	11-8 12-10 6-11 11-7	+7.2
+17 Mar 2025 12:00 Tournament A18. league 800-900								
+		Urbaniec R		859	4 place			-6.4
+		Opponent		Rat.	Result			Delta
+15:00	3rd	Branny D	 	853		2 : 3	2-11 11-2 11-5 5-11 8-11	-4.2
+14:30	gr	Branny D	 	853		3 : 1	8-11 12-10 11-9 11-4	+5.7
+13:03	gr	Sedlacek R	 	868		2 : 3	11-6 10-12 9-11 11-7 5-11	-3.7
+12:01	gr	Theodor F	 	889		1 : 3	5-11 13-11 1-11 8-11	-4.2
+14 Mar 2025 12:00 Tournament A18. league 800-900								
+		Urbaniec R		859	1 place			+0.8
+		Opponent		Rat.	Result			Delta
+15:30	Final	Kus O	 	847		3 : 2	11-13 11-9 15-13 8-11 11-7	+3.5
+14:00	gr	Kus O	 	847		0 : 3	8-11 6-11 8-11	-9
+13:30	gr	Raska M	 	813		3 : 2	11-8 9-11 9-11 11-8 11-9	+2.2
+12:00	gr	Baros K	 	843		3 : 2	11-7 7-11 8-11 12-10 11-3	+3.3
+12 Mar 2025 08:00 Tournament A18. league 800-900								
+		Urbaniec R		858	2 place			+1.4
+		Opponent		Rat.	Result			Delta
+11:30	Final	Fojtik T	 	841		1 : 3	8-11 7-11 11-8 6-11	-7
+10:00	gr	Branny D	 	891		3 : 1	12-10 11-6 9-11 12-10	8
+9:00	gr	Henzel M	 	844		3 : 0	11-7 13-11 11-6	+6.8
+8:30	gr	Fojtik T	 	841		1 : 3	11-9 5-11 7-11 4-11	-7
+11 Mar 2025 08:00 Tournament A18. league 800-900								
+		Urbaniec R		855	2 place			+3.4
+		Opponent		Rat.	Result			Delta
+11:40	Final	Kus O	 	841		0 : 3	5-11 9-11 8-11	-9.1
+10:00	gr	Vrtal O	 	852		3 : 1	5-11 11-4 11-6 11-6	+5.8
+9:30	gr	Lysek T	 	823		3 : 2	11-7 6-11 11-9 7-11 11-7	+2.7
+8:00	gr	Kus O	 	841		3 : 2	7-11 12-10 11-6 5-11 11-8	+3.4
+10 Mar 2025 08:00 Tournament A17. league 800-900								
+		Urbaniec R		863	4 place			-7.2
+		Opponent		Rat.	Result			Delta
+11:00	3rd	Kycelt Ja	 	882		1 : 3	8-11 11-7 7-11 8-11	-4.8
+10:00	gr	Kycelt Ja	 	882		3 : 2	13-11 9-11 11-5 9-11 11-6	+4.8
+9:35	gr	Vavrecka M	 	888		1 : 3	16-14 4-11 8-11 9-11	-4.5
+8:00	gr	Barton A	 	918		1 : 3	9-11 11-8 7-11 8-11	-2.7
+9 Mar 2025 16:00 Tournament A12. league 800-900								
+		Urbaniec R		868	3 place			+2.3
+		Opponent		Rat.	Result			Delta
+19:00	3rd	Sedlak M sr.	 	882		3 : 0	11-8 11-6 11-8	+9.1
+18:30	gr	Vavrecka M	 	869		3 : 2	11-7 9-11 11-9 7-11 11-7	4
+17:00	gr	Sedlak M sr.	 	882		0 : 3	2-11 6-11 8-11	-6.9
+16:00	gr	Svacha O	 	896		1 : 3	6-11 11-4 7-11 7-11	-4.3
+9 Mar 2025 08:00 Tournament A14. league 800-900								
+		Urbaniec R		868	3 place			-6.5
+		Opponent		Rat.	Result			Delta
+11:00	3rd	Bittner M	 	848		3 : 2	9-11 11-8 7-11 11-9 11-8	+3.2
+10:00	gr	Regner M-l	 	866		1 : 3	8-11 11-8 8-11 7-11	-6.1
+9:00	gr	Bittner M	 	848		3 : 1	12-10 11-8 9-11 11-5	+4.8
+8:00	gr	Tonar L	 	820		1 : 3	6-11 11-9 7-11 5-11	-8.8
+8 Mar 2025 00:00 Tournament A17. league 800-900								
+		Urbaniec R		856	3 place			+4.6
+		Opponent		Rat.	Result			Delta
+5:00	3rd	Vavrecka M	 	894		3 : 2	12-10 8-11 11-4 6-11 11-6	+5.5
+4:00	gr	Hofman D	 	819		3 : 2	13-15 19-17 11-7 4-11 11-8	+2.5
+2:30	gr	Regner M-l	 	857		1 : 3	4-11 11-5 5-11 7-11	-5.9
+1:00	gr	Vavrecka M	 	894		3 : 2	4-11 12-14 11-6 11-9 11-9	+5.5
+0:00	gr	Sedlak M sr.	 	871		2 : 3	9-11 10-12 11-9 13-11 6-11	-3.4
+8 Mar 2025 20:00 Tournament A14. league 800-900								
+		Urbaniec R		856	2 place			8
+		Opponent		Rat.	Result			Delta
+23:30	Final	Svacha O	 	884		0 : 3	4-11 6-11 7-11	-5.7
+22:30	gr	Hofman D	 	819		3 : 2	11-7 11-5 7-11 7-11 11-4	+2.5
+21:00	gr	Svacha O	 	884		3 : 2	11-8 7-11 12-10 7-11 11-7	+5.1
+20:15	gr	Vavrecka M	 	894		3 : 2	11-13 11-7 4-11 11-7 11-6	+5.5
+6 Mar 2025 20:00 Tournament A18. league 800-900								
+		Urbaniec R		853	4 place			+3.1
+		Opponent		Rat.	Result			Delta
+23:03	3rd	Marsalek P	 	871		2 : 3	11-6 9-11 5-11 11-8 5-11	-3.3
+22:30	gr	Sedlacek R	 	864		3 : 2	10-12 11-2 5-11 11-9 11-6	+4.4
+21:30	gr	Hudeczek R	 	885		2 : 3	11-4 11-7 10-12 10-12 9-11	-2.7
+20:30	gr	Marsalek P	 	871		3 : 2	11-9 8-11 11-6 11-13 11-9	+4.7
+3 Mar 2025 08:00 Tournament A18. league 800-900								
+		Urbaniec R		852	4 place			+1.1
+		Opponent		Rat.	Result			Delta
+11:14	3rd	Vrtal O	 	852		1 : 3	11-4 4-11 3-11 11-13	-6
+10:30	gr	Vrtal O	 	852		3 : 2	12-10 11-6 13-15 11-13 15-13	4
+9:30	gr	Krupnik Ja	 	884		1 : 3	8-11 6-11 13-11 2-11	-4.1
+8:35	gr	Branny D	 	872		3 : 1	12-10 15-17 11-6 11-7	+7.2
+28 Feb 2025 08:00 Tournament A18. league 800-900								
+		Urbaniec R		848	3 place			+4.4
+		Opponent		Rat.	Result			Delta
+11:00	3rd	Kindl T	 	844		3 : 2	11-5 7-11 11-4 9-11 11-7	+3.8
+10:00	gr	Sedlacek R	 	871		2 : 3	11-6 9-11 6-11 11-8 6-11	-3.1
+9:00	gr	Kindl T	 	844		2 : 3	6-11 6-11 11-6 11-4 7-11	-4.2
+8:30	gr	Theodor F	 	841		3 : 0	11-7 11-9 11-8	+7.5
+23 Feb 2025 00:00 Tournament A17. league 800-900								
+		Urbaniec R		862	4 place			-5.8
+		Opponent		Rat.	Result			Delta
+5:00	3rd	Vavrecka M	 	891		0 : 3	9-11 1-11 9-11	-5.7
+4:00	gr	Kliuchuk R	 	908		0 : 3	9-11 9-11 7-11	-4.3
+2:30	gr	Pagac Z	 	894		3 : 0	11-7 11-9 11-5	+10.6
+1:00	gr	Svacha O	 	909		2 : 3	11-8 8-11 11-9 7-11 5-11	-2.1
+0:00	gr	Vavrecka M	 	891		1 : 3	11-7 8-11 10-12 8-11	-4.3
+23 Feb 2025 20:00 Tournament A12. league 800-900								
+		Urbaniec R		862	3 place			-7.6
+		Opponent		Rat.	Result			Delta
+23:00	3rd	Cmerda O	 	860		3 : 2	11-4 7-11 11-7 7-11 11-8	+3.9
+22:30	gr	Pagac Z	 	894		2 : 3	11-9 3-11 14-12 7-11 5-11	-2.7
+21:30	gr	Zeman L	 	923		0 : 3	9-11 7-11 16-18	-3.1
+20:33	gr	Cmerda O	 	860		1 : 3	8-11 9-11 11-7 5-11	-6.1
+22 Feb 2025 12:00 Tournament A12. league 800-900								
+		Urbaniec R		871	4 place			-9.5
+		Opponent		Rat.	Result			Delta
+15:00	3rd	Vavrecka M	 	887		0 : 3	5-11 9-11 4-11	-6.7
+14:30	gr	Kliuchuk R	 	899		1 : 3	9-11 6-11 12-10 8-11	-4.3
+13:30	gr	Blazek Ja	 	920		1 : 3	13-11 9-11 8-11 8-11	-3.1
+12:30	gr	Vavrecka M	 	887		3 : 2	6-11 10-12 12-10 11-8 12-10	+4.6
+21 Feb 2025 00:00 Tournament A17. league 800-900								
+		Urbaniec R		878	4 place			-15.6
+		Opponent		Rat.	Result			Delta
+5:01	3rd	Theodor F	 	861		1 : 3	6-11 7-11 11-7 6-11	-7.1
+4:30	gr	Kycelt Ja	 	892		2 : 3	10-12 5-11 13-11 11-8 9-11	-3.5
+3:00	gr	Theodor F	 	861		1 : 3	10-12 13-11 5-11 6-11	-7.1
+1:30	gr	Hofman D	 	853		2 : 3	7-11 11-9 11-8 6-11 5-11	-5
+0:00	gr	Pagac Z	 	867		3 : 0	11-7 11-8 11-6	+7.1
+21 Feb 2025 16:00 Tournament A17. league 800-900								
+		Urbaniec R		878	1 place			+9.2
+		Opponent		Rat.	Result			Delta
+19:30	Final	Pagac Z	 	867		3 : 2	4-11 11-6 6-11 13-11 11-8	+3.6
+18:00	gr	Dvorak V	 	876		3 : 0	11-4 11-9 11-6	+7.8
+17:30	gr	Bayer A	 	877		3 : 1	11-9 4-11 13-11 13-11	+5.9
+16:00	gr	Pagac Z	 	867		0 : 3	6-11 8-11 8-11	-8.9
+18 Feb 2025 12:00 Tournament A18. league 800-900								
+		Urbaniec R		888	2 place			-9
+		Opponent		Rat.	Result			Delta
+15:30	Final	Branny D	 	832		1 : 3	11-9 7-11 5-11 8-11	-9.4
+14:00	gr	Vrtal O	 	847		3 : 1	11-9 12-10 8-11 11-8	+3.6
+13:34	gr	Branny D	 	832		3 : 1	11-5 9-11 11-1 11-4	+2.6
+12:04	gr	Lysek T	 	829		2 : 3	8-11 11-6 12-14 11-8 8-11	-6.4
+17 Feb 2025 20:00 Tournament A18. league 800-900								
+		Urbaniec R		870	1 place			+19.2
+		Opponent		Rat.	Result			Delta
+23:30	Final	Fojtik T	 	836		3 : 0	11-7 11-7 11-5	+5.3
+22:00	gr	Fojtik T	 	836		3 : 0	12-10 11-6 13-11	+5.3
+21:30	gr	Janik M	 	823		3 : 1	11-3 8-11 13-11 11-5	+3.2
+20:00	gr	Branny D	 	827		3 : 0	11-9 11-8 11-9	+4.6
+14 Feb 2025 08:00 Tournament A18. league 800-900								
+		Urbaniec R		838	2 place			+31.9
+		Opponent		Rat.	Result			Delta
+11:30	Final	Hudeczek R	 	897		2 : 3	10-12 11-7 11-5 7-11 7-11	-1.6
+10:30	gr	Theodor F	 	874		3 : 1	11-5 11-7 5-11 12-10	+8.1
+9:30	gr	Hudeczek R	 	897		3 : 0	11-5 11-3 11-4	+12.7
+8:30	gr	Kindl T	 	890		3 : 0	11-5 13-11 11-8	+12.1
+10 Feb 2025 00:00 Tournament A12. league 800-900								
+		Urbaniec R		865				-26.7
+		Opponent		Rat.	Result			Delta
+4:30	gr	Pagac Z	 	887		2 : 3	9-11 14-12 11-7 9-11 11-13	-3.1
+3:00	gr	Dvorak V	 	846		0 : 3	5-11 5-11 7-11	-9.5
+1:50	gr	Regner M-l	 	878		0 : 3	2-11 2-11 5-11	-6.9
+0:21	gr	Vrtal O	 	844		1 : 3	8-11 8-11 11-8 9-11	-7.2
+9 Feb 2025 12:00 Tournament A12. league 800-900								
+		Urbaniec R		878	4 place			-13.4
+		Opponent		Rat.	Result			Delta
+15:01	3rd	Sedlak M sr.	 	852		1 : 3	6-11 11-6 4-11 6-11	-7.6
+14:00	gr	Pikous M	 	838		2 : 3	8-11 11-5 11-8 6-11 8-11	-5.6
+13:32	gr	Sedlak M sr.	 	852		2 : 3	4-11 12-10 11-7 5-11 8-11	-5.1
+12:00	gr	Louda Ji	 	860		3 : 1	13-11 11-7 10-12 11-7	+4.9
+8 Feb 2025 00:00 Tournament A17. league 800-900								
+		Urbaniec R		884	2 place			-8
+		Opponent		Rat.	Result			Delta
+5:30	Final	Pagac Z	 	874		0 : 3	4-11 7-11 5-11	-8.9
+4:30	gr	Dorko T	 	813		3 : 1	4-11 11-6 14-12 11-1	+1.7
+3:30	gr	Hofman D	 	853		3 : 2	11-5 7-11 7-11 11-4 11-5	+2.8
+2:00	gr	Pagac Z	 	874		1 : 3	3-11 11-13 13-11 13-15	-6.6
+1:00	gr	Vrtal O	 	825		3 : 1	5-11 11-5 11-8 16-14	+2.4
+8 Feb 2025 16:00 Tournament A14. league 800-900								
+		Urbaniec R		884	1 place			+3.3
+		Opponent		Rat.	Result			Delta
+19:30	Final	Hofman D	 	853		3 : 2	11-2 8-11 11-6 9-11 11-1	+2.8
+18:00	gr	Vavrecka M	 	878		3 : 1	11-7 11-7 9-11 11-6	+5.6
+17:00	gr	Sedlak M sr.	 	861		3 : 1	11-6 11-7 9-11 11-9	+4.6
+16:30	gr	Hofman D	 	853		0 : 3	8-11 6-11 9-11	-10.5
+7 Feb 2025 12:00 Tournament A14. league 800-900								
+		Urbaniec R		863	2 place			22
+		Opponent		Rat.	Result			Delta
+15:31	Final	Regner M-l	 	867		0 : 3	8-11 17-19 8-11	-7.7
+14:30	gr	Regner M-l	 	867		3 : 0	11-6 11-1 11-7	+8.3
+13:30	gr	Barton A	 	912		3 : 1	11-13 12-10 11-9 11-6	+8.9
+12:30	gr	Vavrecka M	 	912		3 : 0	11-6 11-7 11-7	+11.9
+6 Feb 2025 08:00 Tournament A18. league 800-900								
+		Urbaniec R		893	4 place			-29.8
+		Opponent		Rat.	Result			Delta
+11:00	3rd	Hudeczek R	 	888		1 : 3	11-9 8-11 9-11 6-11	-6.3
+10:00	gr	Moravec M	 	920		0 : 3	11-13 10-12 8-11	-5.9
+9:30	gr	Krenek T	 	852		0 : 3	7-11 10-12 5-11	-11.3
+8:00	gr	Hudeczek R	 	888		1 : 3	11-8 8-11 8-11 9-11	-6.3
+3 Feb 2025 16:00 Tournament A18. league 800-900								
+		Urbaniec R		888	2 place			+5.7
+		Opponent		Rat.	Result			Delta
+19:45	Final	Kleprlik K	 	877		1 : 3	8-11 11-9 7-11 7-11	-6.7
+18:12	gr	Kleprlik K	 	877		3 : 2	11-6 11-2 8-11 7-11 12-10	+3.6
+17:30	gr	Vrtal O	 	844		3 : 2	9-11 13-11 11-9 7-11 15-13	+2.2
+16:00	gr	Krenek T	 	863		3 : 0	11-6 11-8 11-4	6
+31 Jan 2025 08:00 Tournament A18. league 800-900								
+		Urbaniec R		875	1 place			+13.1
+		Opponent		Rat.	Result			Delta
+11:30	Final	Skulina D	 	861		3 : 1	9-11 11-8 11-6 12-10	+5.1
+10:09	gr	Kindl T	 	882		3 : 2	14-16 5-11 11-9 11-9 11-5	+4.3
+9:25	gr	Vrtal O	 	869		3 : 0	11-4 11-8 11-9	+7.5
+9:05	gr	Skulina D	 	861		2 : 3	11-4 10-12 11-7 7-11 2-11	-4.6
+28 Jan 2025 08:00 Tournament A18. league 800-900								
+		Urbaniec R		882	3 place			-6.1
+		Opponent		Rat.	Result			Delta
+11:07	3rd	Vrtal O	 	877		3 : 2	11-8 11-7 9-11 3-11 11-9	+3.8
+10:00	gr	Vrtal O	 	877		3 : 2	8-11 7-11 14-12 11-7 11-8	+3.8
+9:30	gr	Krenek T	 	857		1 : 3	11-9 8-11 6-11 12-14	-7.5
+8:00	gr	Kindl T	 	873		1 : 3	11-8 6-11 5-11 10-12	-6.6
+26 Jan 2025 12:00 Tournament A18. league 800-900								
+		Urbaniec R		873	1 place			+9.9
+		Opponent		Rat.	Result			Delta
+15:30	Final	Krupnik Ja	 	890		3 : 2	7-11 7-11 11-5 11-7 11-9	+4.7
+14:30	gr	Marsalek P	 	841		3 : 2	11-7 4-11 14-12 7-11 11-5	+2.7
+13:00	gr	Krupnik Ja	 	890		2 : 3	12-10 11-9 9-11 5-11 9-11	-3.3
+12:00	gr	Kleprlik K	 	898		3 : 2	12-10 4-11 11-9 9-11 11-6	5
+23 Jan 2025 20:00 Tournament A18. league 800-900								
+		Urbaniec R		867	2 place			+6.3
+		Opponent		Rat.	Result			Delta
+23:30	Final	Kindl T	 	857		0 : 3	6-11 8-11 6-11	-8.8
+22:00	gr	Marsalek P	 	860		3 : 1	11-9 9-11 11-9 13-11	+5.6
+21:30	gr	Holub M-k	 	855		3 : 2	11-6 8-11 7-11 11-8 11-9	+3.5
+20:00	gr	Kindl T	 	857		3 : 1	11-8 11-8 6-11 11-6	+5.4
+20 Jan 2025 12:00 Tournament A18. league 800-900								
+		Urbaniec R		869	3 place			-1.9
+		Opponent		Rat.	Result			Delta
+15:00	3rd	Sedlacek R	 	862		3 : 1	11-6 11-4 9-11 11-3	+5.5
+14:00	gr	Theodor F	 	865		2 : 3	11-4 7-11 6-11 11-6 4-11	-4.2
+13:31	gr	Krenek T	 	856		0 : 3	9-11 8-11 12-14	-9.1
+12:02	gr	Sedlacek R	 	862		3 : 1	11-5 10-12 11-3 11-4	+5.5
+15 Jan 2025 08:00 Tournament A18. league 800-900								
+		Urbaniec R		871	2 place			-0.7
+		Opponent		Rat.	Result			Delta
+11:30	Final	Moravec M	 	925		0 : 3	7-11 9-11 8-11	-3.7
+10:30	gr	Sedlacek R	 	867		0 : 3	15-17 13-15 6-11	-8.3
+9:00	gr	Hudeczek R	 	883		3 : 2	4-11 11-3 4-11 11-9 11-6	+4.5
+8:00	gr	Moravec M	 	925		3 : 2	11-8 3-11 5-11 11-9 11-8	+6.2
+13 Jan 2025 12:00 Tournament A18. league 800-900								
+		Urbaniec R		873	4 place			-1.8
+		Opponent		Rat.	Result			Delta
+15:01	3rd	Theodor F	 	882		1 : 3	16-14 8-11 3-11 2-11	-5.5
+14:30	gr	Krenek T	 	853		1 : 3	11-13 7-11 11-8 9-11	-7.1
+13:00	gr	Hudeczek R	 	881		3 : 2	10-12 12-10 8-11 11-9 11-9	+4.3
+12:00	gr	Theodor F	 	882		3 : 1	3-11 11-4 11-7 12-10	+6.5
+11 Jan 2025 12:00 Tournament A18. league 900-1000								
+		Urbaniec R		860	2 place			+13.5
+		Opponent		Rat.	Result			Delta
+15:30	Final	Moravec B	 	911		1 : 3	8-11 11-5 8-11 10-12	-2.9
+14:30	gr	Moravec B	 	911		3 : 0	11-6 11-9 11-8	+12.1
+13:30	gr	Kleprlik K	 	925		3 : 2	11-7 12-10 9-11 9-11 11-7	+6.6
+12:30	gr	Moravec M	 	912		1 : 3	11-13 13-11 4-11 8-11	-2.9
+8 Jan 2025 16:00 Tournament A18. league 900-1000								
+		Urbaniec R		869	4 place			-9.4
+		Opponent		Rat.	Result			Delta
+19:05	3rd	Kleprlik K	 	924		1 : 3	7-11 11-2 7-11 5-11	-2.7
+18:30	gr	Moravec B	 	909		2 : 3	11-13 11-9 11-8 7-11 8-11	-2.4
+17:30	gr	Zaskodny M	 	942		1 : 3	4-11 11-8 6-11 7-11	-1.6
+16:30	gr	Kleprlik K	 	924		1 : 3	6-11 11-7 10-12 6-11	-2.7
+6 Jan 2025 08:00 Tournament A18. league 800-900								
+		Urbaniec R		880	3 place			-10.3
+		Opponent		Rat.	Result			Delta
+11:03	3rd	Hudeczek R	 	898		3 : 1	11-8 5-11 11-9 11-8	+7.1
+10:30	gr	Vrtal O	 	862		1 : 3	7-11 15-17 11-6 9-11	-7.1
+9:00	gr	Bezdicek M	 	888		0 : 3	7-11 11-13 9-11	-7.4
+8:00	gr	Hudeczek R	 	898		2 : 3	4-11 11-4 10-12 11-6 11-13	-3.3
+5 Jan 2025 12:00 Tournament A18. league 800-900								
+		Urbaniec R		884	2 place			-4.1
+		Opponent		Rat.	Result			Delta
+15:30	Final	Krupnik Ja	 	869		2 : 3	11-7 11-9 10-12 4-11 5-11	-4.6
+14:00	gr	Moravec B	 	917		3 : 2	11-8 11-9 5-11 7-11 11-4	+5.3
+13:00	gr	Krupnik Ja	 	869		0 : 3	7-11 5-11 9-11	-9.2
+12:34	gr	Holub M-k	 	847		3 : 1	11-6 8-11 12-10 11-5	+3.8
+1 Jan 2025 08:00 Tournament A18. league 800-900								
+		Urbaniec R		899	3 place			-14.3
+		Opponent		Rat.	Result			Delta
+11:02	3rd	Lysek T	 	811		3 : 1	8-11 11-5 13-11 11-8	+0.7
+10:00	gr	Vrtal O	 	868		3 : 1	11-4 11-8 4-11 12-10	+4.1
+9:30	gr	Lysek T	 	811		1 : 3	11-6 10-12 9-11 9-11	-11.3
+8:00	gr	Krupnik Ja	 	863		1 : 3	9-11 7-11 11-6 5-11	-8.2
+30 Dec 2024 12:00 Tournament A18. league 900-1000								
+		Urbaniec R		871	1 place			+29.2
+		Opponent		Rat.	Result			Delta
+15:30	Final	Kleprlik K	 	935		3 : 1	11-8 11-9 7-11 11-2	+9.9
+14:30	gr	Bezdicek M	 	893		3 : 1	15-17 11-7 11-7 11-9	+7.3
+13:30	gr	Kleprlik K	 	935		2 : 3	11-6 11-9 5-11 11-13 4-11	-1.4
+12:30	gr	Moravec B	 	928		3 : 0	11-9 11-6 11-3	+12.6
+28 Dec 2024 16:00 Tournament A18. league 800-900								
+		Urbaniec R		867	1 place			+4.3
+		Opponent		Rat.	Result			Delta
+19:30	Final	Marsalek P	 	837		3 : 2	9-11 7-11 11-6 11-7 14-12	+2.8
+18:00	gr	Marsalek P	 	837		1 : 3	11-6 10-12 7-11 9-11	-7.8
+17:30	gr	Macura R	 	825		3 : 0	11-8 11-3 11-5	+4.6
+16:00	gr	Raska M	 	832		3 : 1	11-3 11-5 7-11 13-11	+3.9
+26 Dec 2024 16:00 Tournament A18. league 800-900								
+		Urbaniec R		866	3 place			+1.2
+		Opponent		Rat.	Result			Delta
+19:02	3rd	Henzel M	 	849		3 : 2	4-11 12-10 6-11 11-3 11-8	+3.3
+18:30	gr	Henzel M	 	849		2 : 3	7-11 12-10 13-15 11-8 8-11	-4.7
+17:00	gr	Hudeczek R	 	871		3 : 1	11-13 13-11 11-5 13-11	+6.3
+16:00	gr	Krupnik Ja	 	863		2 : 3	11-6 7-11 8-11 11-8 5-11	-4.1
+23 Dec 2024 12:00 Tournament A18. league 800-900								
+		Urbaniec R		854	1 place			+13.2
+		Opponent		Rat.	Result			Delta
+15:30	Final	Vrtal O	 	858		3 : 2	7-11 4-11 11-7 11-5 11-2	+4.2
+14:00	gr	Vrtal O	 	858		1 : 3	10-12 11-5 8-11 9-11	-5.7
+13:30	gr	Henzel M	 	852		3 : 0	11-8 11-6 11-4	+7.9
+12:01	gr	Raska M	 	853		3 : 1	15-17 11-2 11-4 11-8	6
+22 Dec 2024 12:00 Tournament A18. league 800-900								
+		Urbaniec R		866	4 place			-12.2
+		Opponent		Rat.	Result			Delta
+15:05	3rd	Vrtal O	 	858		0 : 3	12-14 10-12 7-11	-8.7
+14:32	gr	Vrtal O	 	858		3 : 2	11-8 11-4 5-11 9-11 11-9	+3.7
+13:00	gr	Skalicky Ji	 	905		0 : 3	9-11 9-11 9-11	-4.9
+12:00	gr	Kleprlik K	 	938		0 : 3	7-11 9-11 5-11	-2.3
+20 Dec 2024 16:00 Tournament A18. league 800-900								
+		Urbaniec R		852	2 place			+14.6
+		Opponent		Rat.	Result			Delta
+19:30	Final	Krupnik Ja	 	871		1 : 3	6-11 9-11 11-9 8-11	-4.8
+18:30	gr	Janik M	 	838		3 : 1	11-4 6-11 11-7 11-2	+5.2
+17:00	gr	Vrtal O	 	855		3 : 2	11-9 11-9 7-11 4-11 11-3	+4.1
+16:00	gr	Krupnik Ja	 	871		3 : 0	11-3 11-5 11-4	+9.5
+14 Dec 2024 16:00 Tournament A18. league 800-900								
+		Urbaniec R		857	4 place			-5.1
+		Opponent		Rat.	Result			Delta
+19:00	3rd	Hudeczek R	 	868		1 : 3	15-13 9-11 9-11 12-14	-5.4
+18:30	gr	Hudeczek R	 	868		3 : 0	11-2 11-3 13-11	+8.8
+17:30	gr	Kleprlik K	 	919		0 : 3	6-11 6-11 6-11	-3.1
+16:30	gr	Krupnik Ja	 	868		1 : 3	6-11 5-11 11-8 9-11	-5.4
+9 Dec 2024 16:00 Tournament A18. league 800-900								
+		Urbaniec R		870	3 place			-11.9
+		Opponent		Rat.	Result			Delta
+19:03	3rd	Vrtal O	 	858		3 : 1	6-11 11-9 11-5 11-5	+5.3
+18:30	gr	Vrtal O	 	858		2 : 3	8-11 11-6 7-11 11-8 10-12	-4.5
+17:00	gr	Krupnik Ja	 	880		0 : 3	6-11 7-11 6-11	-7.2
+16:00	gr	Kleprlik K	 	896		0 : 3	6-11 2-11 5-11	-5.9
+4 Dec 2024 16:00 Tournament A18. league 800-900								
+		Urbaniec R		867	3 place			+3.2
+		Opponent		Rat.	Result			Delta
+19:14	3rd	Holub M-k	 	856		3 : 0	11-9 11-7 11-4	+7.2
+18:00	gr	Krupnik Ja	 	873		3 : 1	12-10 8-11 12-10 11-7	+6.4
+17:00	gr	Vrtal O	 	860		1 : 3	10-12 11-7 7-11 8-11	-6.4
+16:30	gr	Holub M-k	 	856		2 : 3	11-9 5-11 6-11 11-3 7-11	-4.4
+2 Dec 2024 12:00 Tournament A18. league 800-900								
+		Urbaniec R		855	2 place			+12.5
+		Opponent		Rat.	Result			Delta
+15:42	Final	Theodor F	 	899		2 : 3	12-10 8-11 11-7 8-11 9-11	-2.2
+14:43	gr	Vrtal O	 	853		2 : 3	11-9 9-11 12-10 9-11 6-11	-4.1
+13:00	gr	Theodor F	 	899		3 : 1	7-11 13-11 11-8 11-4	+8.7
+12:00	gr	Bezdicek M	 	914		3 : 1	8-11 11-4 16-14 11-9	+9.5
+1 Dec 2024 08:00 Tournament A18. league 900-1000								
+		Urbaniec R		865	4 place			-10.3
+		Opponent		Rat.	Result			Delta
+11:00	3rd	Skalicky Ji	 	933		1 : 3	11-9 7-11 6-11 8-11	-2
+10:30	gr	Theodor F	 	892		0 : 3	5-11 6-11 6-11	-5.8
+9:30	gr	Pribyl Ja	 	946		1 : 3	8-11 5-11 11-4 6-11	-1.2
+8:30	gr	Skalicky Ji	 	933		2 : 3	10-12 11-9 5-11 11-3 8-11	-1.3
