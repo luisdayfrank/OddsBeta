@@ -2,7 +2,6 @@
 		Pleskot Ja		567	3 place			-1.7
 		Opponent		Rat.	Result			Delta
 11:08	3rd	Tacinec M	⇔	551		3 : 1	5-11 13-11 11-4 11-7	+5.1
-10:07	gr	Sulava L	⇔	579		2 : 3	3-11 11-8 8-11 11-5 5-11	-3.5
 09:00	gr	Horak D	⇔	558		3 : 1	7-11 11-6 11-9 11-4	+5.5
 08:30	gr	Tacinec M	⇔	551		0 : 3	7-11 9-11 8-11	-9.2
 25 Arp 2025 00:00 Tournament A12. league 550-600								
