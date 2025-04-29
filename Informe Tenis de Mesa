@@ -140,6 +140,5 @@ Por lo tanto, cada línea bajo "Opponent" representa UN PARTIDO.
 Si en un torneo hay 5 líneas bajo "Opponent", el jugador analizado jugó 5 partidos en ese torneo.
 
 -Conclusión:
-Cada línea bajo "Opponent" es un partido.
-La suma total de partidos es la suma de todas esas líneas en todos los torneos.
-El análisis debe basarse en ese conteo.
+Cada línea bajo “Opponent” (que comienza con una hora, etapa, y nombre de rival) es un partido.
+cada aparición de un rival es un partido.
