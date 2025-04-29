@@ -107,7 +107,7 @@ ICP = (P_{directos} \times W_{directos}) + \alpha \times (P_{comunes} \times W_{
 \]
 
 **Interpretación:**  
-- **ICP ≈ [ ]** (_baja/media/alta confianza_)  
+- **ICP ˜ [ ]** (_baja/media/alta confianza_)  
 - _Motivo: Explicación breve._
 
 ---
@@ -122,3 +122,24 @@ ICP = (P_{directos} \times W_{directos}) + \alpha \times (P_{comunes} \times W_{
 ## 8. Formato de Entrega
 
 - Markdown estructurado con el nombre de: Analisis_Comparativo_Jugador_Analizado_1_vs_Jugador_Analisado_2.md
+
+## Informacion Importante para la identificacion correcta de los partidos:
+
+# Estructura de los partidos (ejemplo):
+·Cada sección corresponde a un torneo con una fecha, Torneo y liga determinada.
+·Dentro de cada torneo, debajo de "Opponent", aparece una lista de partidos jugados por el jugador a analisar, con cada línea representando un partido distinto:
+·Hora: Ejemplo 01:30 (irrelevante para el análisis global).
+·Etapa: Ejemplo gr (grupo), Final, 3rd (tercer lugar), etc.
+·Oponente: Nombre del rival.
+·Rating del rival
+·Resultado: Ejemplo 3 : 0
+·Puntuación por set
+·Delta: Cambio de rating tras ese partido.
+
+Por lo tanto, cada línea bajo "Opponent" representa UN PARTIDO.
+Si en un torneo hay 5 líneas bajo "Opponent", el jugador analizado jugó 5 partidos en ese torneo.
+
+-Conclusión:
+Cada línea bajo "Opponent" es un partido.
+La suma total de partidos es la suma de todas esas líneas en todos los torneos.
+El análisis debe basarse en ese conteo.
