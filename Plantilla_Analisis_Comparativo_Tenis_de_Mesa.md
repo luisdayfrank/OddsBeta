@@ -192,9 +192,9 @@ Ejemplo:
 ### Formato de cada línea de partido
 
 ```
-[Hora] [Etapa] [Nombre del oponente] [?] [Rating del oponente] [Resultado] [Puntuación por set] [Delta]
+[Hora] [Etapa] [Nombre del oponente] [⇔] [Rating del oponente] [Resultado] [Puntuación por set] [Delta]
 Ejemplo:
-02:30  gr  Fojt P  ?  724  1 : 3  14-16 8-11 11-5 8-11  -6.3
+02:30  gr  Fojt P  ⇔  724  1 : 3  14-16 8-11 11-5 8-11  -6.3
 ```
 
 ### Principio Fundamental para el Conteo
