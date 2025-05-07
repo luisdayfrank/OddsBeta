@@ -104,7 +104,7 @@ Para cada jugador, se necesita (esta información se encuentra en los archivos d
 
 Ejemplo Cuadro resumen comparando todas las estadísticas, patrones y probabilidades disponibles y analizadas.
 
-## 6. Comparación Directa
+## 6. Comparación Directa (Garantizar formato numerico y porcentajes donde corresponda cumplinedo con el formato del siguiente cuadro de ejemplo)
 
 | Variable                   | **Horak D**             | **Darin K**                |
 |----------------------------|-------------------------|----------------------------|
@@ -118,8 +118,8 @@ Ejemplo Cuadro resumen comparando todas las estadísticas, patrones y probabilid
 | **Momentum actual**        | Ligera baja reciente    | Subida estable             |
 | **Finales ganadas (%)**    | 44%                     | 53%                        |
 | **3er puesto (%)**         | 50%                     | 47%                        |
-| **Rivales Top (>700)**     | Derrotas frecuentes     | Derrotas frecuentes        |
-| **Rivales Medios (<700)**  | Equilibrado             | Ligera ventaja             |
+| **Rivales Top (>700)**     | win 10% (Derrotas frecuentes)|win 15% (Derrotas frecuentes)|
+| **Rivales Medios (<700)**  | win 40% Equilibrado     | win 45% Ligera ventaja             |
 | **Tendencia**              | Descendente             | Estable/ligero descenso en 800+ |
 | **Rachas**                 | Altamente variable      | Consistente                |
 | Vs Prokupek Ja             | 40% win, -Δ             | 30% win, -Δ                |
